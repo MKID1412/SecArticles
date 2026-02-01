@@ -17405,5 +17405,8 @@
     "https://mp.weixin.qq.com/s/jpnS3f2lkmY-NWPM0sDoOQ": "飞牛系统（fnOS）app-center-static 目录遍历导致的任意文件读取漏洞+命令执行漏洞",
     "https://mp.weixin.qq.com/s/P3Cuo9-veC_U-iq96w85cg": "【接口漏洞第八章第十节】你以为的速率限制真的安全吗？GraphQL这个功能可能让它形同虚设",
     "https://mp.weixin.qq.com/s/OjSn4k6RCSwYSFuh-78Thw": "1day | 飞牛系统（fnOS）app-center-static 目录遍历导致任意文件读取漏洞+命令执行漏洞",
-    "https://mp.weixin.qq.com/s/uMa_qYfHGiF8bwZOb9rn1w": "从“打补丁”到“套娃式绕过”：SolarWinds Web Help Desk 的 RCE 漏洞深度复盘"
+    "https://mp.weixin.qq.com/s/uMa_qYfHGiF8bwZOb9rn1w": "从“打补丁”到“套娃式绕过”：SolarWinds Web Help Desk 的 RCE 漏洞深度复盘",
+    "https://mp.weixin.qq.com/s/haqpTk0I-K6wwXMxmeoD_g": "【红队必备】100+服务识别+CVE匹配漏洞检测工具",
+    "https://mp.weixin.qq.com/s/5BJgLIw693XR9oAioqdxBA": "【限时靶场】【已开启】网传的飞牛任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/1hrOpyAOxx-i8kC16MF_ew": "飞牛系统（fnOS）0Day漏洞风险提示"
 }
