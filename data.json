@@ -17449,5 +17449,14 @@
     "https://mp.weixin.qq.com/s/kH5TeuWFL8ckFQdwKeo-QQ": "复现n8n Ni8mare：从任意文件读取到远程代码执行的全链漏洞利用 (CVSS 10.0)",
     "https://mp.weixin.qq.com/s/bJPMUOD6KDi0Ta0mtmft-A": "Python全量漏洞扫描工具 -- Vulnerability-Scanning-tool（1月31日更新）",
     "https://mp.weixin.qq.com/s/iKESKQY5qQyPJWnABpvltA": "因被 AI 生成的虚假漏洞报告轰炸，开源网络工具 cURL 宣布本月底停止提供安全赏金",
-    "https://mp.weixin.qq.com/s/TpN7OIdPOi9cXMqOEKMpzQ": "T0级漏洞"
+    "https://mp.weixin.qq.com/s/TpN7OIdPOi9cXMqOEKMpzQ": "T0级漏洞",
+    "https://mp.weixin.qq.com/s/rvUAp_XRLjeVrHLuRS4HXw": "WordPress Modular DS 插件的严重漏洞已被积极利用以获取管理员权限",
+    "https://mp.weixin.qq.com/s/PoWUy4x8ivGE3Oog3N00jQ": "Ivanti EPMM RCE CVE-2026-1340∕1281完整分析",
+    "https://mp.weixin.qq.com/s/U8l5fvJC3BaCRLXjUBhsxQ": "漏洞验证-Nps代理工具web管理端认证绕过",
+    "https://mp.weixin.qq.com/s/ckBSqV-Bdv-PbMSGfX7WbA": "解析2024:Low-latency Virtual Network function Scheduling Algorithm Based on Deep Reinforcement Learning文章",
+    "https://mp.weixin.qq.com/s/1kWR8KnKFEIxCtJNo5Ak_A": "三菱电机 SCADA 系统曝漏洞，恐引发工业生产中断",
+    "https://mp.weixin.qq.com/s/RRnwzuw1_FbdLPcvzLJxjA": "vm2 Node.js沙箱库曝高危漏洞 可突破沙箱执行任意代码",
+    "https://mp.weixin.qq.com/s/7O1QfXe2UhTUU_xBss4EoA": "漏洞预警暗网泄露：[exploitpack.com] 所有漏洞利用程序泄露！",
+    "https://mp.weixin.qq.com/s/jLY9wEB2GjGVOoMHBDrFQg": "深度实例分析：攻防视角下的AI框架组件中的注入漏洞",
+    "https://mp.weixin.qq.com/s/zTiDqtIKWYHKBoxIDP3JQg": "DudeSuite 漏洞播报 全网漏洞早知道【20260202】"
 }
