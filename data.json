@@ -17552,5 +17552,12 @@
     "https://mp.weixin.qq.com/s/osHj1BKn-Rhw7htjoXrlQA": "漏洞预警 | 东胜物流软件SQL注入漏洞",
     "https://mp.weixin.qq.com/s/026Zp1lM2HZds-yU11i0lw": "漏洞预警 | vm2沙箱逃逸漏洞",
     "https://mp.weixin.qq.com/s/_t9kW2le-q6UAaYf6BHz2g": "工具 | ShiroExploit",
-    "https://mp.weixin.qq.com/s/qZaQtmmP18dzvUB7oASFyQ": "CI∕CD安全案例：从PR评论到RCE、AWS管理员密钥泄露"
+    "https://mp.weixin.qq.com/s/qZaQtmmP18dzvUB7oASFyQ": "CI∕CD安全案例：从PR评论到RCE、AWS管理员密钥泄露",
+    "https://mp.weixin.qq.com/s/FmmnIfSDQp80Nfpw7mu8SQ": "Nacos默认key导致权限绕过登陆漏洞 附POC",
+    "https://mp.weixin.qq.com/s/_olCaV7VJWGAKLpL5R48Ow": "无法反弹SHELL的RCE利用",
+    "https://mp.weixin.qq.com/s/3YA6L_IlCrkzbDbrVDCMrw": "综合漏洞后渗透利用工具",
+    "https://mp.weixin.qq.com/s/_a_iDUzZ5fukOib-I9T93g": "用友NC importCombo XXE漏洞",
+    "https://mp.weixin.qq.com/s/pcoh03ivOSxEVyyCsINxgw": "紧急预警！俄罗斯APT28锁定中东欧，Office零日漏洞成攻击利器，邮件偷取+远程控制防不胜防",
+    "https://mp.weixin.qq.com/s/bmoOUbydU7Bes-XH0AkopQ": "14.9万星AI个人助手OpenClaw曝高危漏洞",
+    "https://mp.weixin.qq.com/s/EpY0aTJjGrv-qSx9n8wbkA": "CVE-2026-20820 clfs.sys堆溢出"
 }
