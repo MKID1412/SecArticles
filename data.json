@@ -17701,5 +17701,15 @@
     "https://mp.weixin.qq.com/s/hN6B5Hnvl-wmXUekNaa4nQ": "信息安全漏洞周报【第059期】",
     "https://mp.weixin.qq.com/s/Pdmk2xThBcEhXhFzxGqphQ": "【漏洞通告】n8n 表达式执行漏洞导致命令执行(CVE-2026-25049)",
     "https://mp.weixin.qq.com/s/vRFmlvpWELped7WjyoLDbg": "Samstung 第 1 部分：MagicINFO 9 Server 远程代码执行",
-    "https://mp.weixin.qq.com/s/lzft8UrsChCa-g4uFAtQMQ": "JAVA代码审计之Thymeleaf模板注入漏洞"
+    "https://mp.weixin.qq.com/s/lzft8UrsChCa-g4uFAtQMQ": "JAVA代码审计之Thymeleaf模板注入漏洞",
+    "https://mp.weixin.qq.com/s/Wo59F-Hkh8py_3CWfF4JmA": "【靶场复现】Ivanti EPMM Pre-RCE漏洞CVE-2026-1281∕1340",
+    "https://mp.weixin.qq.com/s/0m3JdmA36CrB4bvCBMeMoA": "2026年1月企业必修安全漏洞清单",
+    "https://mp.weixin.qq.com/s/J9IC6PzcIgmylIhUSGkbZg": "JerryScript引擎ecma_op_to_index漏洞分析与越界读写利用",
+    "https://mp.weixin.qq.com/s/cOEsDXrelY7xCIrznIxMrg": "网络钓鱼和OAuth令牌漏洞导致Microsoft 365全面入侵",
+    "https://mp.weixin.qq.com/s/NA40gl6fj3UFuevxwg48Tg": "Cisco 0-Day RCE 安全电子邮件网关漏洞已被实际利用",
+    "https://mp.weixin.qq.com/s/0MHKw8W5fGeo86owr8hC9Q": "2026年1月企业必修安全漏洞清单",
+    "https://mp.weixin.qq.com/s/ezmGOPRRBDLljggC3V8xiQ": "jsPDF库两大漏洞可致代码注入与系统崩溃，千万开发者需立即升级",
+    "https://mp.weixin.qq.com/s/z1iLbcemPe7n9yr9qcVl1w": "【服务端漏洞-访问控制缺失-第二章第三节】找不到敏感路径？试试这招，源码里可能写着答案",
+    "https://mp.weixin.qq.com/s/zzjpm1Zlcso-zUzcAIkmkA": "【高危漏洞预警】n8n工作流自动化平台远程代码执行漏洞CVE-2026-25049",
+    "https://mp.weixin.qq.com/s/h0sTAppUiTNsQRzcKgz7Pw": "两个漏洞可用于攻陷谷歌 Looker 实例"
 }
