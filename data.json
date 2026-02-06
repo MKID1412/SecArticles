@@ -17669,5 +17669,15 @@
     "https://mp.weixin.qq.com/s/hA7awp6qrUCTveCO5uPddA": "【AI安全】重磅！Google Gemini 爆发“幽灵日历”漏洞",
     "https://mp.weixin.qq.com/s/EHk3ilen37_AMTlE8O1kBg": "漏洞预警 | 金和OA XXE漏洞",
     "https://mp.weixin.qq.com/s/qDwcASKl_qgcVOQme94D_g": "Django高危漏洞可引发拒绝服务与SQL注入攻击",
-    "https://mp.weixin.qq.com/s/r9oPWhMe5SYPqStp12RsIA": "漏洞预警 | 东胜物流软件SQL注入漏洞"
+    "https://mp.weixin.qq.com/s/r9oPWhMe5SYPqStp12RsIA": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/08uls_k08ED196k-W0LK5Q": "web渗透实战 | js.map文件泄露导致的通杀漏洞",
+    "https://mp.weixin.qq.com/s/vFTs4x4HMdSRH4xiRjrQOA": "【新洞速递】CVE-2026-21858远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/u6WcWv0foJcFGjTLJwwL6Q": "安全小知识-第二十三期_Struts2的“幽灵漏洞”：S2-045∕046为何至今仍有警醒意义？",
+    "https://mp.weixin.qq.com/s/0HChmdRHR-z3Zov8tLNubA": "【已复现】n8n 继CVE-2025-68613后再曝表达式沙箱逃逸漏洞可导致任意代码执行（CVE-2026-25049）",
+    "https://mp.weixin.qq.com/s/BcKrQLcCxqQRY3PMwnWGAA": "ThinkPHP漏洞综合利用工具, 图形化界面, 命令执行, 一键getshell, 批量检测, 日志遍历, session包含,宝塔绕过",
+    "https://mp.weixin.qq.com/s/3CVrYCSOgBKaNNnJBzwmaA": "快普M6 GetAccountTitleList SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/c30Ywg_1PNiPdZ61ex-T0g": "漏洞速递 | CVE-2026-24423 RCE漏洞（建议自查）",
+    "https://mp.weixin.qq.com/s/5v2BKlGkO-6jPAvwtYj-ZA": "瑞斯康达-多业务智能网关-任意命令执行漏洞 附POC",
+    "https://mp.weixin.qq.com/s/GFxgNj6ct8J9qHM9BWfY8g": "叮～你有新的速递！CVE-2026-21509 RCE漏洞（速查）",
+    "https://mp.weixin.qq.com/s/vcY1IZaZE0Lrch0C0bjMTA": "吓哭了！天才黑客觉醒！Claude 4.6挖出500个高危0day"
 }
