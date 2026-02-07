@@ -17711,5 +17711,10 @@
     "https://mp.weixin.qq.com/s/ezmGOPRRBDLljggC3V8xiQ": "jsPDF库两大漏洞可致代码注入与系统崩溃，千万开发者需立即升级",
     "https://mp.weixin.qq.com/s/z1iLbcemPe7n9yr9qcVl1w": "【服务端漏洞-访问控制缺失-第二章第三节】找不到敏感路径？试试这招，源码里可能写着答案",
     "https://mp.weixin.qq.com/s/zzjpm1Zlcso-zUzcAIkmkA": "【高危漏洞预警】n8n工作流自动化平台远程代码执行漏洞CVE-2026-25049",
-    "https://mp.weixin.qq.com/s/h0sTAppUiTNsQRzcKgz7Pw": "两个漏洞可用于攻陷谷歌 Looker 实例"
+    "https://mp.weixin.qq.com/s/h0sTAppUiTNsQRzcKgz7Pw": "两个漏洞可用于攻陷谷歌 Looker 实例",
+    "https://mp.weixin.qq.com/s/9Z0gwALP5a4JAWU9m29VPQ": "第4期：Web漏洞挖掘进阶｜文件上传与文件包含漏洞组合利用实战",
+    "https://mp.weixin.qq.com/s/7nk9aQYbBiVsQ8L1epThmQ": "每周漏洞情报速览｜2026.01.31–02.06",
+    "https://mp.weixin.qq.com/s/gb2Qc7AVTC8W11VOknMkvw": "【实战复盘】通过监控调试模式获取 15,000 美元的远程代码执行收益",
+    "https://mp.weixin.qq.com/s/eiSig5Jtia_oBpG3U_nxaQ": "网络钓鱼和 OAuth 令牌漏洞导致 Microsoft 365 全面泄露",
+    "https://mp.weixin.qq.com/s/hGQIxEQONC3WhM-K7ZtiCA": "Claude Opus 4.6发现500+高危漏洞：AI漏洞发现技术深度解析"
 }
