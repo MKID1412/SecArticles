@@ -17787,5 +17787,15 @@
     "https://mp.weixin.qq.com/s/hPCXzwlL1ASXhma5INu03g": "【安全圈】SandboxJS 四大高危漏洞（CVSS 10.0）可导致宿主系统沦陷",
     "https://mp.weixin.qq.com/s/XeqYRO-CsF57sbgU7HrJuw": "预警丨防范Apache Struts2开源应用框架XML外部实体注入高危漏洞",
     "https://mp.weixin.qq.com/s/6A1IcdPpq5gCBdw1udqfEg": "CNVD漏洞周报2026年第5期",
-    "https://mp.weixin.qq.com/s/SFYELOHYYrtusy7GH8V1qg": "【首发复现】用友BIP LoginWithV8存在登录绕过漏洞"
+    "https://mp.weixin.qq.com/s/SFYELOHYYrtusy7GH8V1qg": "【首发复现】用友BIP LoginWithV8存在登录绕过漏洞",
+    "https://mp.weixin.qq.com/s/yBQD_hl0c0VuKU-Kh4lKtA": "SRC挖洞的立体化作战：从“撒网捕鱼”到“精准狙击”的工业级漏洞狩猎体系",
+    "https://mp.weixin.qq.com/s/-hXWVR1jqa4a022d20h-wA": "通过补丁对比分析 N-day 漏洞",
+    "https://mp.weixin.qq.com/s/SDiOpqKX5JESztfDhi2diw": "工具推荐 | JeecgBoot 全场景漏洞检测工具，覆盖 20+ 高危漏洞",
+    "https://mp.weixin.qq.com/s/KJBGGaTwFjRvgAfGqqiLTw": "大蚂蚁BigAnt即时通讯系统DispersedAddin接口存在文件上传漏洞 附POC",
+    "https://mp.weixin.qq.com/s/jVLdcQZ6fYHln2cTNC7MQQ": "爱丁堡大学 | 探索人工智能漏洞的赏金政策与披露实践",
+    "https://mp.weixin.qq.com/s/1QCTBTMXdtq9yplqmi1PMg": "Administrator Protection 安全边界绕过漏洞分析",
+    "https://mp.weixin.qq.com/s/zkw0S7TRGvXZWwO1mJunCQ": "当我打完 sqli-labs 后，我决定进入文件上传漏洞（附靶场环境搭建）",
+    "https://mp.weixin.qq.com/s/fmQ_G2eNynbSnUXyTNvwQg": "最新Nessus2026.1.8版本主机漏洞扫描∕探测工具Windows∕Linux下载",
+    "https://mp.weixin.qq.com/s/oP0VlggcnOJUMlojCV1Nyg": "WordPress WC Designer Pro（CVE-2025-6440）分析",
+    "https://mp.weixin.qq.com/s/AZdwpP5uqZ2q82KBCgZPyA": "某天第一个RCE记录"
 }
