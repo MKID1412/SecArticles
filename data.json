@@ -17934,5 +17934,9 @@
     "https://mp.weixin.qq.com/s/ObURslSFAVSOOcz_axIZCw": "伪装成漏洞检测工具样本分析",
     "https://mp.weixin.qq.com/s/Ytyc_s-dP_54i4XhYkyQZA": "复现Windows记事本最新漏洞-CVE-2026-20841",
     "https://mp.weixin.qq.com/s/_SA0zX9mVEJXHJ_KITXo7g": "必备漏洞挖掘工具！聚合 XRAY∕AWVS∕vulmap，批量搞定漏洞挖掘与验证",
-    "https://mp.weixin.qq.com/s/dyYofcD5V8k6AnIchSexEQ": "ctfshow web入门 命令执行4"
+    "https://mp.weixin.qq.com/s/dyYofcD5V8k6AnIchSexEQ": "ctfshow web入门 命令执行4",
+    "https://mp.weixin.qq.com/s/QCkCaQOOfVB1_DedE-C6Vw": "CVE-2026-26215 - manga-image-translator 中的未经身份验证的远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/nEgpaIP8ooi2FUwhkGZRSw": "【已复现】Microsoft Windows 记事本命令注入漏洞(CVE-2026-20841)",
+    "https://mp.weixin.qq.com/s/i0OI52O3IorUmeCjUHvPIg": "【SRC实战】逻辑漏洞",
+    "https://mp.weixin.qq.com/s/-FQHkd95VMyCX3dpK-7BHQ": "CVE-2026-20841 - Windows 记事本应用程序远程代码执行漏洞"
 }
