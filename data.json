@@ -18019,5 +18019,8 @@
     "https://mp.weixin.qq.com/s/ZjoPfkTWHmyyKLsRw-GLIw": "【来自电话服务的RCE】解决电话服务中的漏洞",
     "https://mp.weixin.qq.com/s/BeZ6jKVtQHPJZsKlFyJ5Xw": "核弹级 POC 管理 & 扫描桌面工具",
     "https://mp.weixin.qq.com/s/Q1DmiWqyHpPrnK2uPc9FCA": "漏洞预警 | 用友时空KSOA SQL注入漏洞",
-    "https://mp.weixin.qq.com/s/INNMO2KV7dRZubeLGsSVJw": "《记一次简单的 EDUSRC 上分之旅（1）：高校系统漏洞挖掘实录》"
+    "https://mp.weixin.qq.com/s/INNMO2KV7dRZubeLGsSVJw": "《记一次简单的 EDUSRC 上分之旅（1）：高校系统漏洞挖掘实录》",
+    "https://mp.weixin.qq.com/s/N8yy4ZhMRrJQBueCRyRvfw": "【在野利用】CVSS 满分，Cisco邮件网关未授权远程命令执行漏洞（CVE-2025-20393）",
+    "https://mp.weixin.qq.com/s/5IdXMdgtz98_PZTspdkq_Q": "【已复现】谷歌紧急修复！已发现在野利用：Chrome 浏览器 CSS 渲染组件高危 UAF 漏洞",
+    "https://mp.weixin.qq.com/s/5GYlrJkNQNF_f5mlwo5FbA": "漏洞扫描不是“点一下”：揭秘安服巡检背后的“硬功夫”"
 }
