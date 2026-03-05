@@ -18540,5 +18540,6 @@
     "https://mp.weixin.qq.com/s/Ev5pAUCuLEVvYA_yR2yRvA": "CVSS 10.0 FreeScout 中的未经身份验证的远程代码执行（公开概念验证）",
     "https://mp.weixin.qq.com/s/6HNJYi_B4rVi1q1obzeCPQ": "某大型oa前台0day挖掘",
     "https://mp.weixin.qq.com/s/pPrB9a5bi4TknBYREgx68g": "漏洞预警 | GNU InetUtils telnetd提权漏洞",
-    "https://mp.weixin.qq.com/s/J6wCB9KG3d-om9dwU83PDw": "Chrome Gemini漏洞可致攻击者远程访问用户摄像头和麦克风"
+    "https://mp.weixin.qq.com/s/J6wCB9KG3d-om9dwU83PDw": "Chrome Gemini漏洞可致攻击者远程访问用户摄像头和麦克风",
+    "https://mp.weixin.qq.com/s/JuZ87Rc0iB32i5bmWkWnAA": "美国网络安全和基础设施安全局 (CISA) 警告：高通芯片组内存损坏漏洞正被攻击者积极利用"
 }
