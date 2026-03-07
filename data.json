@@ -18660,5 +18660,7 @@
     "https://mp.weixin.qq.com/s/_1bvND_g96tsnnx-Lhgrdw": "漏洞复现 | Cisco Catalyst SD-WAN 身份验证绕过任意文件上传漏洞(CVE-2026-20127)",
     "https://mp.weixin.qq.com/s/CiL6aExyGam5MrYCHOs5gA": "两次 HTTP 请求拿下网站管理员权限——CVE-2026-1492 漏洞分析",
     "https://mp.weixin.qq.com/s/mljxoln_sVJFVxCOP_VTNQ": "五角大楼和欧洲航天局部署的卫星接收器爆超20项安全漏洞",
-    "https://mp.weixin.qq.com/s/N84dkkzp8hT0bp1PiBRdVQ": "记录比较有意思的几个漏洞挖掘事件"
+    "https://mp.weixin.qq.com/s/N84dkkzp8hT0bp1PiBRdVQ": "记录比较有意思的几个漏洞挖掘事件",
+    "https://mp.weixin.qq.com/s/3sUgYu0ZJuZJKXbLtUAnIw": "自 2023 年起，思科 SD-WAN 的一个严重漏洞已被用于零日攻击。",
+    "https://mp.weixin.qq.com/s/-S2QUMzzY1IRq5rrQ0VQXg": "供应链漏洞挖掘：从“单点突破”到“全网沦陷”的深度狩猎指南"
 }
