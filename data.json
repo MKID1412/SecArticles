@@ -18770,5 +18770,15 @@
     "https://mp.weixin.qq.com/s/qAZ8GvruVGnqbzEj_gyr9A": "漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/vmlQF1pxim5keu2rNPAOqQ": "CNVD漏洞周报2026年第9期",
     "https://mp.weixin.qq.com/s/hbQ2JIK_enKoD_MvKm7zRw": "腾讯开源项目现严重 RCE 漏洞：两行请求拿下服务器，CVE-2026-30861 详解",
-    "https://mp.weixin.qq.com/s/dQLVGtNVd1uxquNhYy9d4Q": "ZeroLogon (CVE-2020-1472)"
+    "https://mp.weixin.qq.com/s/dQLVGtNVd1uxquNhYy9d4Q": "ZeroLogon (CVE-2020-1472)",
+    "https://mp.weixin.qq.com/s/BdU6U_1SFpdE0LsIsUixcg": "OpenAI发布应用安全智能体：可自主发现、验证并修复漏洞",
+    "https://mp.weixin.qq.com/s/WwdZsX9AdR1Ue1RXQxGJfg": "第88天-Web攻防大揭秘：PHP反序列化漏洞的“隐藏核武器”——Phar深度解析与框架实战",
+    "https://mp.weixin.qq.com/s/iKcaG321S_Y8eXihFmG5vQ": "Budibase 低代码平台高危漏洞预警：一次请求即可窃取平台全部密钥",
+    "https://mp.weixin.qq.com/s/6pTXhp1mINZb4Q6O8fRLlA": "Nginx-UI 未授权备份下载漏洞(CVE-2026-27944)",
+    "https://mp.weixin.qq.com/s/tkph3tGH0Mj7fjaJXhLkhQ": "【已复现】Cisco Catalyst SD-WAN 身份验证绕过任意文件上传漏洞(CVE-2026-20127)",
+    "https://mp.weixin.qq.com/s/avSunEJYVI2mihiz2i97Lw": "OpenClaw（俗称“龙虾”）近期安全漏洞与风险汇总",
+    "https://mp.weixin.qq.com/s/c7fIhZW4S8ug2U_CxFwROA": "银河麒麟OS安全检测工具 | 资产清点、合规检查、漏洞扫描和报告生成一体化",
+    "https://mp.weixin.qq.com/s/7C8OIsYsaSXOL8PZaQutQw": "2026-03-10 最新CVE漏洞情报和技术资讯头条",
+    "https://mp.weixin.qq.com/s/HRSOqM2-y2ZopSxCo-RI6Q": "Moodle jsmol.php 任意文件包含漏洞(CVE-2025-34031)",
+    "https://mp.weixin.qq.com/s/DRdG3tOgtk9Pm0n6bGN4sA": "华夏ERP敏感信息泄露漏洞 附POC"
 }
