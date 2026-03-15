@@ -19034,5 +19034,9 @@
     "https://mp.weixin.qq.com/s/urt3RHl_aZmviPshOcwo4w": "【复现】OpenClaw远程代码执行漏洞（CVE-2026-28466）",
     "https://mp.weixin.qq.com/s/Uxc8INFqSLTcuVcmx48Ymg": "微软发布 Windows 11 热修复补丁修复 RRAS 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/yxojaA5Hc6XJmd-igFRZ0A": "实操干货！检测购物网站是否存在支付漏洞",
-    "https://mp.weixin.qq.com/s/lkvRW9wFKyUPQUlnHkI3pQ": "【服务端漏洞-访问控制缺失-第五章第三节】从0到1：文件上传漏洞之Content-Type绕过实战解析"
+    "https://mp.weixin.qq.com/s/lkvRW9wFKyUPQUlnHkI3pQ": "【服务端漏洞-访问控制缺失-第五章第三节】从0到1：文件上传漏洞之Content-Type绕过实战解析",
+    "https://mp.weixin.qq.com/s/3aUFaPqTswWqCxMq57ritQ": "OpenClaw AI Agent漏洞可导致提示词注入攻击与数据窃取",
+    "https://mp.weixin.qq.com/s/FwT9gwksuumFjtZJxni0iQ": "记一次SSRF+文件上传组合拳：复盘我是如何组合漏洞一步步Getshell的",
+    "https://mp.weixin.qq.com/s/hSUIOxEbbIcDMM-QHuJkeA": "Linux AppArmor模块曝九大漏洞，可致提权及绕过容器隔离",
+    "https://mp.weixin.qq.com/s/1Ig16PXYt_g21_S_QI9P3Q": "代码审计 | 九佳易ERP漏洞分析"
 }
