@@ -19064,5 +19064,7 @@
     "https://mp.weixin.qq.com/s/myHG1YBGZVGKuRT1HioUQQ": "OpenClaw安全防护工具(小龙虾漏洞检测)",
     "https://mp.weixin.qq.com/s/jnYusEAwGGQpIyOW1lFqwA": "edusrc某学院联奕系统漏洞通过常规测试手段拿下9rank",
     "https://mp.weixin.qq.com/s/iXz1z8TuckMCpkFfHIfcjw": "微软将在发现严重远程代码执行漏洞后阻止 Windows 11 和 Server 2025 的自动安装",
-    "https://mp.weixin.qq.com/s/jp_NtEeIdGF-ea0m-NrnrQ": "3月社区投稿活动 | 漏洞挖掘"
+    "https://mp.weixin.qq.com/s/jp_NtEeIdGF-ea0m-NrnrQ": "3月社区投稿活动 | 漏洞挖掘",
+    "https://mp.weixin.qq.com/s/KxpSqvBI7RsoK_p9siymXw": "快普M6 GetPositionOfStaff sql注入漏洞",
+    "https://mp.weixin.qq.com/s/jv6H39mFH9gglbcCxipd2Q": "将超出漏洞范围的 HTML 注入升级为高危 9.3 分 XSS 漏洞（绕过 WAF）"
 }
