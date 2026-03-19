@@ -19176,5 +19176,6 @@
     "https://mp.weixin.qq.com/s/ZWuQBrCdi5JsHDlI7H5sBg": "【漏洞预警】Langflow 未授权远程代码执行漏洞（CVE-2026-33017）",
     "https://mp.weixin.qq.com/s/SUK6JyTGy9WswTehEibpJw": "【安全圈】iOS18 爆高危漏洞！不升危险，升级变卡",
     "https://mp.weixin.qq.com/s/WPmHCoDfS-cPTRrP-6gnZQ": "AI串联漏洞攻陷招聘平台，伪装特朗普索要数据权限",
-    "https://mp.weixin.qq.com/s/BH45coP-O-dw1zl85ZHSjA": "Apple WebKit 漏洞使恶意网页内容可在 iOS 和 macOS 上绕过安全机制"
+    "https://mp.weixin.qq.com/s/BH45coP-O-dw1zl85ZHSjA": "Apple WebKit 漏洞使恶意网页内容可在 iOS 和 macOS 上绕过安全机制",
+    "https://mp.weixin.qq.com/s/xfPLqb_R5_9Xs24QNDWILw": "Windows RCE漏洞EXP - CVE-2025-29969"
 }
