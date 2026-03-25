@@ -19363,5 +19363,6 @@
     "https://mp.weixin.qq.com/s/foeEgdzYWGhZKb4DZC9Gfw": "【漏洞预警】LiteLLM 投毒、Apifox 后门连发，敲响供应链安全警钟",
     "https://mp.weixin.qq.com/s/Bi4jWg_43padms17q26pcQ": "【高危AI漏洞预警】OpenClaw环境变量注入漏洞 (CVE-2026-22177)",
     "https://mp.weixin.qq.com/s/4xdtc_uGeCtkGuaS01ATxA": "0基础挖src最先要了解的三大经典漏洞详解，东西不多相信你能吃下！",
-    "https://mp.weixin.qq.com/s/ZMDSNOwPbwCIj8ARhG3MOQ": "[漏洞复现]全程云OA QCHMS.asmx SQL注入漏洞(VEID-2026-11106)"
+    "https://mp.weixin.qq.com/s/ZMDSNOwPbwCIj8ARhG3MOQ": "[漏洞复现]全程云OA QCHMS.asmx SQL注入漏洞(VEID-2026-11106)",
+    "https://mp.weixin.qq.com/s/gwZC9ARf1tgEhemc5Fiydg": "红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘"
 }
