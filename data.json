@@ -19364,5 +19364,7 @@
     "https://mp.weixin.qq.com/s/Bi4jWg_43padms17q26pcQ": "【高危AI漏洞预警】OpenClaw环境变量注入漏洞 (CVE-2026-22177)",
     "https://mp.weixin.qq.com/s/4xdtc_uGeCtkGuaS01ATxA": "0基础挖src最先要了解的三大经典漏洞详解，东西不多相信你能吃下！",
     "https://mp.weixin.qq.com/s/ZMDSNOwPbwCIj8ARhG3MOQ": "[漏洞复现]全程云OA QCHMS.asmx SQL注入漏洞(VEID-2026-11106)",
-    "https://mp.weixin.qq.com/s/gwZC9ARf1tgEhemc5Fiydg": "红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘"
+    "https://mp.weixin.qq.com/s/gwZC9ARf1tgEhemc5Fiydg": "红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘",
+    "https://mp.weixin.qq.com/s/tZvq6vlbDO1_eQHvX-bQbQ": "泛微E-cology10 getEmDsList接口存在敏感信息泄露 附POC",
+    "https://mp.weixin.qq.com/s/9-dEbCf-fPa8FxjknE9svg": "Kali Code Executor：三层Agent驱动的Kali容器渗透代码执行平台"
 }
