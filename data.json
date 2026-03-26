@@ -19370,5 +19370,6 @@
     "https://mp.weixin.qq.com/s/aAlGWV4xLj6g8TXmG0k59Q": "漏洞复现 | Langflow 远程代码执行漏洞(CVE-2026-33017)",
     "https://mp.weixin.qq.com/s/ofxXtoMWj3srU6qk_zXLZQ": "阿里云 AVD、长亭漏洞库、OSCS、奇安信 |多源实时漏洞监控和推送",
     "https://mp.weixin.qq.com/s/fpgO3evgo-eLogFkEb8sLg": "「SRC新手」burpsuit配置抓特定域名数据包&抓包插件自动收集jsonpXSS漏洞",
-    "https://mp.weixin.qq.com/s/0SHlg4d0Mw4Eb-32FIL8hw": "九篇技术分析归零后，我决定静音45天——真心期待那句“这不是漏洞”"
+    "https://mp.weixin.qq.com/s/0SHlg4d0Mw4Eb-32FIL8hw": "九篇技术分析归零后，我决定静音45天——真心期待那句“这不是漏洞”",
+    "https://mp.weixin.qq.com/s/3jfefGCUKUgP8Cua5UeWDg": "OpenClaw 漏洞频发：2026-03-25 再曝权限提升漏洞，可致远程代码执行 | 已复现"
 }
