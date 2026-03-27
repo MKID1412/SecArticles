@@ -19393,5 +19393,12 @@
     "https://mp.weixin.qq.com/s/QtcyJ8ZOS5L_NAeGuKHyTQ": "[漏洞复现]微力同步-Verysync任意文件读取漏洞(VEID-2026-11111)",
     "https://mp.weixin.qq.com/s/SknGzy9tcNL3Yw4R2XbMPg": "信任劫持：ClawHub漏洞让攻击者轻松刷榜，摇身一变成为热门首选技能",
     "https://mp.weixin.qq.com/s/5u_lUrv6xlqSfDe1hVzQ7g": "【漏洞通告】NVIDIA SNAP-4 Container存在拒绝服务漏洞(CVE-2025-33215)",
-    "https://mp.weixin.qq.com/s/TE_JCOzqMiNlseWHEgCRtA": "从任意文件读取漏洞到getshell"
+    "https://mp.weixin.qq.com/s/TE_JCOzqMiNlseWHEgCRtA": "从任意文件读取漏洞到getshell",
+    "https://mp.weixin.qq.com/s/Dt0y3O09kCBEiAX3tuKlpg": "漏洞预警 | Langflow远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/orMOHdDVMko29TMaGB9nxA": "SourceInsight4.0 最新4.00.0150 2026版本 破解分析",
+    "https://mp.weixin.qq.com/s/d7F6boeSpVGMMI8HXIDsYA": "漏洞复现 | 博硕BGM Upload.ashx 存在任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/Mq5QbqtIs8HUv66Zh5ya_Q": "一张图片 = 拿下网站？文件上传漏洞深度解析",
+    "https://mp.weixin.qq.com/s/KCnE2dubNtqqbyduSud_DA": "私有内容IDOR漏洞",
+    "https://mp.weixin.qq.com/s/VrbuihpsTm-KIvZfw-0dLg": "漏洞预警 | LEAN MES系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/j7VCXJLAjKnFex9pogUz3g": "【漏洞复现】Langflow CSV Agent 任意代码执行（CVE-2026-27966）"
 }
