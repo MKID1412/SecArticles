@@ -19432,5 +19432,7 @@
     "https://mp.weixin.qq.com/s/wdTqwg12UxwNB6hkfUDfHg": "墨雪飘影漏洞收集平台通过工信部备案",
     "https://mp.weixin.qq.com/s/fhjkZZu-Sn5blbytQpDslw": "0142.微软身份验证器中未被认领的深度链接：账户完全被盗用（CVE-2026-26123）",
     "https://mp.weixin.qq.com/s/iM1sFwRqgXAAyjgLEsdxkA": "威胁通缉令 · 红桃A丨React2Shell RCE漏洞（新增）",
-    "https://mp.weixin.qq.com/s/g_9aQ8gTTFotM_z0W09NhQ": "Coruna漏洞工具包升级攻击框架，威胁数百万未打补丁的iOS设备"
+    "https://mp.weixin.qq.com/s/g_9aQ8gTTFotM_z0W09NhQ": "Coruna漏洞工具包升级攻击框架，威胁数百万未打补丁的iOS设备",
+    "https://mp.weixin.qq.com/s/p0RnEz3kbzArFt-QAz6C2w": "WordPress CMS Commander 插件SQL漏洞 | CVE-2026-3334概念复现&研究",
+    "https://mp.weixin.qq.com/s/T4wlMRg5aoMY2_lQ5-kXPQ": "灾难公式：串联EspoCRM脚本引擎实现远程代码执行"
 }
