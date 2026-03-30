@@ -19453,5 +19453,8 @@
     "https://mp.weixin.qq.com/s/wZa2CmQ0JmDB1kaDYmuWpA": "Langflow漏洞披露后数小时即遭实战攻击，CISA将其列入已知被利用漏洞清单",
     "https://mp.weixin.qq.com/s/u70vB0h_qO4Dsbr9xlSnBg": "BIND 9个安全漏洞允许攻击者绕过安全控制并导致服务器崩溃",
     "https://mp.weixin.qq.com/s/3WcbmoScxykEVR-jj5VLsw": "瞄准即时通讯：DVRTC 漏洞实验室指南",
-    "https://mp.weixin.qq.com/s/m0LjAX6cVyPs10fQ0BFxgQ": "5200万次下载，三个高危漏洞：你的AI应用正在\"裸奔\"吗？"
+    "https://mp.weixin.qq.com/s/m0LjAX6cVyPs10fQ0BFxgQ": "5200万次下载，三个高危漏洞：你的AI应用正在\"裸奔\"吗？",
+    "https://mp.weixin.qq.com/s/06Wx8xZAZJSBfcrdg2ZktA": "SQL 到 SSH：Grafana 中存在严重 CVSS 9.1 级远程代码执行漏洞，可将监控变成远程劫持",
+    "https://mp.weixin.qq.com/s/6o24iCVMgFntuACVFOLzcg": "苹果 DarkSword 漏洞工具公开，数亿 iPhone 面临窃密风险",
+    "https://mp.weixin.qq.com/s/RVb-ai_ZrfWTyWdY6jjl0g": "手把手CNVD从资产收集到通杀漏洞挖掘"
 }
