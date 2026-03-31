@@ -19464,5 +19464,8 @@
     "https://mp.weixin.qq.com/s/Q6TKTDQT_zJba4VnysTFrA": "【高危漏洞预警】Grafana SQL表达式任意文件写入导致RCE（CVE-2026-27876）",
     "https://mp.weixin.qq.com/s/uV1rgNsk8FuDYRk06ZWsMQ": "AI大模型安全护栏攻防，深挖提示词注入漏洞，拆解多模态绕过手法",
     "https://mp.weixin.qq.com/s/JCHVW8jnw3cYOLUv2gcoSQ": "亿赛通-电子文档安全管理系统DecryptApplication;Servicelogin接口存在任意文件读取漏洞 附POC",
-    "https://mp.weixin.qq.com/s/hyYPCLvVr_1d__jsGa9-lA": "工具推荐 | UploadRanger专业级文件上传漏洞检测：全面支持263种绕过技术、代理抓包与动态深度扫描"
+    "https://mp.weixin.qq.com/s/hyYPCLvVr_1d__jsGa9-lA": "工具推荐 | UploadRanger专业级文件上传漏洞检测：全面支持263种绕过技术、代理抓包与动态深度扫描",
+    "https://mp.weixin.qq.com/s/xcrowsWRs10luZsO6TGyXg": "Coruna：针对 iOS 的国家级∕商业级 Web 驱动型漏洞利用工具包，注意看文章细节内容有不同收获",
+    "https://mp.weixin.qq.com/s/9pkBn5-z4CI5J4U42ezoHA": "Anthropic专攻漏洞挖掘的秘密模型Claude Mythos泄露，AI安全攻防格局突变",
+    "https://mp.weixin.qq.com/s/KwFUYDHeleoon4NcZt41AQ": "Telegram零点击0Day官方否认但漏洞当场被验证，你的聊天记录已在别人手里"
 }
