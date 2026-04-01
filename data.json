@@ -19510,5 +19510,11 @@
     "https://mp.weixin.qq.com/s/2BVjH31Zy6re8a4cB8p3JA": "泛微ecology 历史漏洞浅析(一)",
     "https://mp.weixin.qq.com/s/SEZhf7OjWFFYsairfgCD8Q": "畅捷通T+ DownLoadBlockFile 任意文件读取漏洞",
     "https://mp.weixin.qq.com/s/zwkRUQjlC1rJ8KgY3chrUw": "威胁通缉令 · 红桃5丨CitrixBleed 2漏洞（新增）",
-    "https://mp.weixin.qq.com/s/pv7IH5r9BT-FL48oow1tPw": "MAD Bugs：Claude 编写了一个完整的 FreeBSD 远程内核 RCE 漏洞，并获得了 Root Shell 权限 (CVE-2026-4747)"
+    "https://mp.weixin.qq.com/s/pv7IH5r9BT-FL48oow1tPw": "MAD Bugs：Claude 编写了一个完整的 FreeBSD 远程内核 RCE 漏洞，并获得了 Root Shell 权限 (CVE-2026-4747)",
+    "https://mp.weixin.qq.com/s/C93W5Hlmn6YWxWDgNZj4Qw": "【在野漏洞预警】Chrome浏览器沙箱逃逸漏洞（CVE-2026-5281）",
+    "https://mp.weixin.qq.com/s/FQcKOdbFQclYK1kMXqnQsg": "PHP代码审计实战：两个经典漏洞的深度剖析",
+    "https://mp.weixin.qq.com/s/bfHI4LsGicJiSJKGVq9RrA": "【在野利用】Google Chrome Dawn 释放后重用漏洞(CVE-2026-5281)安全风险通告",
+    "https://mp.weixin.qq.com/s/PUNGfi1A6Y3RP1rO3BihAQ": "【CVE-2026-4747】疯了！Claude 直接写内核 RCE，成功获得 Root Shell！",
+    "https://mp.weixin.qq.com/s/K2W-Hfk90VakfG5gMwM5Aw": "利用邮箱漏洞寻找突破口打穿目标内网",
+    "https://mp.weixin.qq.com/s/i1AJHN9Kx_a3bHAI41PH2w": "4月社区投稿活动 | 漏洞挖掘"
 }
