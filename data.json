@@ -19646,5 +19646,8 @@
     "https://mp.weixin.qq.com/s/qO5x45u9ZzcOhcElTlIIXA": "【威胁情报】CVE-2025-62215 Windows内核本地权限提升 PoC公开（Exploit-DB 52494）",
     "https://mp.weixin.qq.com/s/S7sD1d1VS_ZK-7AjxcZRFQ": "Fortinet发布紧急补丁修复FortiClient零日漏洞",
     "https://mp.weixin.qq.com/s/Jwsz4e0aRIfTV13MEjXqXA": "RAG从元数据Key到RCE：CVE-2026-22738 深度解析Spring AI向量存储中的SpEL表达式注入与逃逸",
-    "https://mp.weixin.qq.com/s/aHbNtj0vL69vvODLitUwHA": "CVE-2026-35616：Fortinet修复被积极利用的高严重性漏洞"
+    "https://mp.weixin.qq.com/s/aHbNtj0vL69vvODLitUwHA": "CVE-2026-35616：Fortinet修复被积极利用的高严重性漏洞",
+    "https://mp.weixin.qq.com/s/isveVZn78xSRDmjErKp9ug": "DudeSuite 漏洞播报 全网漏洞早知道【20260407】",
+    "https://mp.weixin.qq.com/s/ld2uSh1yBMwhdKC30ZN60Q": "先知通用软件漏洞收集及奖励计划第十一期 正式开始！",
+    "https://mp.weixin.qq.com/s/b_udKvis2KisM6rDCQKx5Q": "嘶吼安全动态｜工信部NVDB平台发布风险提示：利用苹果iOS漏洞的攻击活动激增 黑客利用React2Shell发起自动化凭证窃取活动"
 }
