@@ -19665,5 +19665,20 @@
     "https://mp.weixin.qq.com/s/0PbD0c7mSjh5ZKMy-WDY_w": "用100美元谷歌云额度，我找到了华硕驱动的零日漏洞",
     "https://mp.weixin.qq.com/s/FGORx7M58alEdrG9ecvEsQ": "4月社区投稿活动 | 漏洞挖掘",
     "https://mp.weixin.qq.com/s/dR1rXd7vwVLhHv0cnH8AiQ": "某CMS最新版本前台RCE审计流程",
-    "https://mp.weixin.qq.com/s/b90IOr4CTSQn-LpF7kj3jA": "迅饶科技 X2Modbus网关 GetConfig 信息泄露漏洞"
+    "https://mp.weixin.qq.com/s/b90IOr4CTSQn-LpF7kj3jA": "迅饶科技 X2Modbus网关 GetConfig 信息泄露漏洞",
+    "https://mp.weixin.qq.com/s/sIhngZZP7QqEWBWcrUDEvw": "语音运行时漏洞：一个隐秘的Windows横向移动通道",
+    "https://mp.weixin.qq.com/s/beBUY1nEQxyNdwngGT4u1A": "与Claude共度的 10 分钟：CVE-2026-34197 的远程代码执行",
+    "https://mp.weixin.qq.com/s/k5fhjHv0L4A45qmzaukDEg": "攻击者利用 Flowise 严重漏洞 CVE-2025-59528 实现远程代码执行",
+    "https://mp.weixin.qq.com/s/CvqMKWhFzuTdhEWVqrQI9g": "【未修复】 漏洞概念验证（PoC）",
+    "https://mp.weixin.qq.com/s/3hj4Udc-NZFOnN9m7Kylyg": "Windows Defender 0Day漏洞PoC曝光，攻击者可获取系统最高权限",
+    "https://mp.weixin.qq.com/s/By5CaWLXUtkAl0eIHBe0aw": "【已复现】Vite WebSocket 任意文件读取漏洞(CVE-2026-39363)安全风险通告",
+    "https://mp.weixin.qq.com/s/spfdvWN9oAomGPwGGEhAlQ": "155个OpenClaw漏洞列表！速看！",
+    "https://mp.weixin.qq.com/s/70eled0DcsbriYlPDb6Svw": "GPUBreach 漏洞利用 GPU 内存位翻转实现完整系统接管",
+    "https://mp.weixin.qq.com/s/vrhxZnQ72uofsffBw5wZvQ": "【视频】CVE-2026-32746，CVSS 评分高达 9.8",
+    "https://mp.weixin.qq.com/s/QYRAnhIp8OT1CbLDz6r3zQ": "vscode_tasks_command_execute_poc",
+    "https://mp.weixin.qq.com/s/AT7T02mnfCCkn7CYfgAduA": "CVSS 9.8 警告！带你复盘思科无认证提权与RCE漏洞利用路径",
+    "https://mp.weixin.qq.com/s/EULyUsWNG-P67dLYlqc6VA": "【1 day 在野】博硕BGM系统存在任意文件读取漏洞 附Payload",
+    "https://mp.weixin.qq.com/s/dHf1AMS1VAHD255mjNIgLA": "雷神众测漏洞周报2026.3.30-2026.4.6",
+    "https://mp.weixin.qq.com/s/6lUt1jr6KnNID9af7sE16w": "CNVD漏洞周报2026年第13期",
+    "https://mp.weixin.qq.com/s/wbodII0aHGqn_I5_V-r7sA": "从 RCE 到全量凭证窃取：深度解析 CVE-2025-55182 攻击利用链"
 }
