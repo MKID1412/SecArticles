@@ -19751,5 +19751,9 @@
     "https://mp.weixin.qq.com/s/I9hb-4ejEMl8c4QTSvKW8g": "注意！中间件IIS是这个版本存在该漏洞",
     "https://mp.weixin.qq.com/s/XvbK5_y0P_iOe3HHrov06g": "漏洞预警 | 孚盟云SQL注入漏洞",
     "https://mp.weixin.qq.com/s/nJ6h_nPP-l5nXgEwBrj9fw": "【红队】一个检测VUE站点未授权漏洞",
-    "https://mp.weixin.qq.com/s/jOUl7XYQ08OUfRYdbwQTgw": "整合型漏洞扫描工具 -- vulnscan（4月6日更新）"
+    "https://mp.weixin.qq.com/s/jOUl7XYQ08OUfRYdbwQTgw": "整合型漏洞扫描工具 -- vulnscan（4月6日更新）",
+    "https://mp.weixin.qq.com/s/F33ZNryCujq3IXzEguwGQQ": "Citrix NetScaler 正在积极排查 CVE-2026-3055 (CVSS 9.3) 内存过度读取漏洞",
+    "https://mp.weixin.qq.com/s/tfpLEQDTNvUpr6_nClMytw": "【1 day 在野】WordPressMailMint-CVE-2026-2025-信息泄露 附Payload",
+    "https://mp.weixin.qq.com/s/u25arhv1_QbP_UVmPmoCFg": "Mythos之后：漏洞挖掘从“找问题”走向“证明漏洞”",
+    "https://mp.weixin.qq.com/s/u2NKG4ZYQM4PUqbu1l2ggA": "WordPress Ditty SSRF漏洞(CVE-2025-8085)"
 }
