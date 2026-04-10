@@ -19755,5 +19755,13 @@
     "https://mp.weixin.qq.com/s/F33ZNryCujq3IXzEguwGQQ": "Citrix NetScaler 正在积极排查 CVE-2026-3055 (CVSS 9.3) 内存过度读取漏洞",
     "https://mp.weixin.qq.com/s/tfpLEQDTNvUpr6_nClMytw": "【1 day 在野】WordPressMailMint-CVE-2026-2025-信息泄露 附Payload",
     "https://mp.weixin.qq.com/s/u25arhv1_QbP_UVmPmoCFg": "Mythos之后：漏洞挖掘从“找问题”走向“证明漏洞”",
-    "https://mp.weixin.qq.com/s/u2NKG4ZYQM4PUqbu1l2ggA": "WordPress Ditty SSRF漏洞(CVE-2025-8085)"
+    "https://mp.weixin.qq.com/s/u2NKG4ZYQM4PUqbu1l2ggA": "WordPress Ditty SSRF漏洞(CVE-2025-8085)",
+    "https://mp.weixin.qq.com/s/hj9rI8bmcojZ-Pgbt--axQ": "【安全警示】Claude Mythos隐藏能力曝光：AI发现零日漏洞的震撼一周",
+    "https://mp.weixin.qq.com/s/FJSroX2VyFFxKZ9buhoIBA": "能信安：漏洞通告",
+    "https://mp.weixin.qq.com/s/dTs9aDDuU1DHwNmQ5j19nA": "Progress ShareFile曝新漏洞 可组合实现未认证远程代码执行",
+    "https://mp.weixin.qq.com/s/yn04i5qZJ89mv_9cOkKE4A": "【漏洞通告】Progress ShareFile 远程代码执行漏洞(CVE-2026-2701)",
+    "https://mp.weixin.qq.com/s/hDpqHjKnUj4iABQ6OeIs9A": "安全热点周报：Fortinet 发布紧急补丁修复 FortiClient 零日漏洞",
+    "https://mp.weixin.qq.com/s/DedNUBMF2z5NGP89tBS4zw": "【漏洞通告】CUPS 本地令牌泄露漏洞(CVE-2026-34990)",
+    "https://mp.weixin.qq.com/s/YdumXnNsmZqwOgIQ2BmfaQ": "你的WinRAR还在“裸奔”？——近三年高危漏洞大盘点",
+    "https://mp.weixin.qq.com/s/-UG8NexckrCs2BFWKx2cTA": "谷歌不再接受AI提交的漏洞检测报告"
 }
