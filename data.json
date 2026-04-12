@@ -19795,5 +19795,6 @@
     "https://mp.weixin.qq.com/s/2dauQtVxlZVdNAB1VxXRpA": "Claude 编写了一个完整的 FreeBSD 远程内核 RCE 漏洞，并利用了 Root Shell（CVE-2026-4747）",
     "https://mp.weixin.qq.com/s/iCkibNhvriaRYSUAbqVLPA": "Adobe正式官宣Reader漏洞已被在野利用，打开PDF可执行任意代码",
     "https://mp.weixin.qq.com/s/pgtf9R-smm085Jsi3BwbZA": "Storm-1175 高频勒索攻击全链路：从 N-day 漏洞到 Medusa 部署最快仅 24 小时",
-    "https://mp.weixin.qq.com/s/GfMl2I7h0Rgou8U1V2rzXw": "AI路由漏洞可被利用注入恶意代码并窃取敏感数据"
+    "https://mp.weixin.qq.com/s/GfMl2I7h0Rgou8U1V2rzXw": "AI路由漏洞可被利用注入恶意代码并窃取敏感数据",
+    "https://mp.weixin.qq.com/s/lV3b77o9XjT7PPADKpWy7A": "【工业控制系统网络安全系列课程】第2课-工业控制系统的网络安全风险-过程控制漏洞利用（四）真实案例分析"
 }
