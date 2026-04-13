@@ -19816,5 +19816,12 @@
     "https://mp.weixin.qq.com/s/eKJMYCThcMK-sgyhqIdQag": "Adobe 修复了正被积极利用的 Acrobat Reader 漏洞 CVE-2026-34621",
     "https://mp.weixin.qq.com/s/6YlCwWoHclWGzu_tIpvEZQ": "Fortinet FortiClientEMS 访问控制不当漏洞CVE-2026-35616利用分析及历史漏洞总结",
     "https://mp.weixin.qq.com/s/6BpCnXURo5vinZqBkXt9pw": "漏洞预警 | LEAN MES系统SQL注入漏洞",
-    "https://mp.weixin.qq.com/s/OJ9uotBEXlJnPf-oXx-UOg": "Claude Mythos找出27年前大漏洞，网安饭碗保不住了"
+    "https://mp.weixin.qq.com/s/OJ9uotBEXlJnPf-oXx-UOg": "Claude Mythos找出27年前大漏洞，网安饭碗保不住了",
+    "https://mp.weixin.qq.com/s/Ryuqi4xMPYE0gUdXjcOWwg": "【在野利用】Adobe Acrobat Reader 远程代码执行漏洞(CVE-2026-34621)安全风险通告",
+    "https://mp.weixin.qq.com/s/ALRmxBvIKyttLJqYM7jBOA": "【已复现】Nginx ngx_http_dav_module 堆缓冲区溢出漏洞(CVE-2026-27654)安全风险通告",
+    "https://mp.weixin.qq.com/s/BZ9DwQ17qxK-h9JBqcXM0g": "EarthEmbeddingExplorer：零门槛、多模态，像搜图一样探索全球卫星影像",
+    "https://mp.weixin.qq.com/s/ifEiawLaPusWlyOuvio-iA": "【自研工具】Zack-AI-Scanner AI智能Web漏洞扫描BurpSuite插件",
+    "https://mp.weixin.qq.com/s/oCXmFaAqmbL-Esk_dXJ3jA": "TP-Link路由器一次曝出5个漏洞，家庭和小办公网关再次站上风口",
+    "https://mp.weixin.qq.com/s/mN3CDNEWSATcRTUp0SF5FQ": "Claude Code源码泄露：一个低危漏洞，暴露了一个大问题",
+    "https://mp.weixin.qq.com/s/vVvsiHE0tfMLBiuofErh-g": "文件上传漏洞总结"
 }
