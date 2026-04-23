@@ -20135,5 +20135,8 @@
     "https://mp.weixin.qq.com/s/jXRvAWM5VDJKDZ25fOgdcA": "Flowise fetch-links ssrf漏洞",
     "https://mp.weixin.qq.com/s/4knx5DnwKSTy1CdbImY7Lw": "CVE-2026-40342：Firebird 数据库中的 CVSS 10.0 路径遍历远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/A9z6ntDveOrcJaeBZpitcA": "漏洞预警 | 孚盟云SQL注入漏洞",
-    "https://mp.weixin.qq.com/s/V1TCgDNHIZtZRMUoC5KaIQ": "1day:可实现Nginx服务器完全控制"
+    "https://mp.weixin.qq.com/s/V1TCgDNHIZtZRMUoC5KaIQ": "1day:可实现Nginx服务器完全控制",
+    "https://mp.weixin.qq.com/s/ds0aLVLxUjtEO4yToA4tMw": "Pack2TheRoot (CVE-2026-41651)：跨发行版本地权限提升漏洞",
+    "https://mp.weixin.qq.com/s/fodvOn6B5H1xOsAEKhWcdQ": "Progress ShareFile 远程代码执行漏洞(CVE-2026-2701)",
+    "https://mp.weixin.qq.com/s/K8fMT3gMMrGMuEJHirY5zg": "GHSA-xq3m-2v4x-88gg 的 PoC：通过代码注入在 protobuf.js 中实现严重远程代码执行 (CVSS 9.4)"
 }
