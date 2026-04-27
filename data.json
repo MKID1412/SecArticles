@@ -20244,5 +20244,9 @@
     "https://mp.weixin.qq.com/s/bprUqeLSDdjBS179mBXcqg": "CVE-2017-12615 Apache Tomcat任意文件上传漏洞说明",
     "https://mp.weixin.qq.com/s/51IPZ96leij4ShgvItxzFA": "每周PDF资源：OpenClaw曝重大漏洞；2026高危漏洞TOP10盘点；黑客算改安卓NFC应用窃取支付数据",
     "https://mp.weixin.qq.com/s/FBeu3Gh8c3vHRfVYNAPfIg": "挖到盲SSRF别急着放弃！这才是RCE的正确打开方式",
-    "https://mp.weixin.qq.com/s/l89UO7i5L-6AZaSyI0f6Tg": "实战！快速编写漏洞POC & 批量验证"
+    "https://mp.weixin.qq.com/s/l89UO7i5L-6AZaSyI0f6Tg": "实战！快速编写漏洞POC & 批量验证",
+    "https://mp.weixin.qq.com/s/-Uf91JkBHe_-gq31ftMvoA": "GraphQL 接口 Mutation别名导致的Hackerone DoS 漏洞",
+    "https://mp.weixin.qq.com/s/KqEoLc6qc6qKmbJIcrRkEw": "AI漏洞海啸来袭：五步构建Mythos-ready安全体系",
+    "https://mp.weixin.qq.com/s/ppbocrTnhKgJIIVN4CoQWQ": "畅捷通T+ FormReportOperateAction 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/vetr3EdxDiVH73EnCtWisw": "CVE-2026-34621 回顾：136天的检测谎言"
 }
