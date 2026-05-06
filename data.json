@@ -20557,5 +20557,11 @@
     "https://mp.weixin.qq.com/s/oQ3S6LWCYRhuolkShzKupg": "关键漏洞可致 30 万 Ollama 部署信息被盗",
     "https://mp.weixin.qq.com/s/Lbr65Cg3EKTCOjRLJjP0lw": "【已复现】Android ADB 认证绕过漏洞(CVE-2026-0073)安全风险通告",
     "https://mp.weixin.qq.com/s/zveO60reYLzH1AWA-A9Tow": "深度解析：OpenAI 的红队测试，如何在发布前找出模型漏洞",
-    "https://mp.weixin.qq.com/s/CVuwSix19RoeoXW0R-wpFA": "【在野利用】Palo Alto Networks PAN-OS 缓冲区溢出漏洞(CVE-2026-0300)安全风险通告"
+    "https://mp.weixin.qq.com/s/CVuwSix19RoeoXW0R-wpFA": "【在野利用】Palo Alto Networks PAN-OS 缓冲区溢出漏洞(CVE-2026-0300)安全风险通告",
+    "https://mp.weixin.qq.com/s/dnAi9Gz0i6TlBdaZ2YYQBw": "智能体驱动的漏洞挖掘实践",
+    "https://mp.weixin.qq.com/s/Mz1h3sZza39OfrZxPbCzDQ": "Progress 提醒注意严重的 MOVEit 自动化认证绕过漏洞",
+    "https://mp.weixin.qq.com/s/qbVvalyDCVG1GM01LXZxUw": "MCP+BurpSuite 实现AI漏洞挖掘",
+    "https://mp.weixin.qq.com/s/BDVEi3LzN3A32-ofzXWgng": "高危安卓零点击漏洞可远程获取Shell访问权限",
+    "https://mp.weixin.qq.com/s/VqaBYT8TN6xcERGTqvKi8w": "Palo Alto 提醒注意严重的 PAN-OS RCE漏洞",
+    "https://mp.weixin.qq.com/s/RG9TeSJXxyUwDFD5nFy2ag": "人工智能重要安全漏洞通报Ollama安全漏洞"
 }
