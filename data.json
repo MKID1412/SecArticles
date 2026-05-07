@@ -20599,5 +20599,6 @@
     "https://mp.weixin.qq.com/s/QZeZEgJpfixnzFgeV3OF1g": "Redis安全漏洞使服务器面临远程代码执行风险",
     "https://mp.weixin.qq.com/s/bQpCPb16xf-IIcKQXWXcGA": "天地伟业Easy7 ∕Easy7∕rest∕file∕deleteFile 文件删除漏洞",
     "https://mp.weixin.qq.com/s/80l-1CKkG3X_fQnoYGDs-w": "CVE-2026-42231 漏洞分析报告",
-    "https://mp.weixin.qq.com/s/zjD5hHNaNMQvn_Nnj5X2ag": "谷歌Chrome浏览器发布148版本，修复了127个安全漏洞"
+    "https://mp.weixin.qq.com/s/zjD5hHNaNMQvn_Nnj5X2ag": "谷歌Chrome浏览器发布148版本，修复了127个安全漏洞",
+    "https://mp.weixin.qq.com/s/-FRSiQKaIalflj2aYpBfZQ": "利用存在漏洞的驱动程序 BYOVD 获取任意内核读∕写权限并绕过 PPL 保护"
 }
