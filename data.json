@@ -20715,5 +20715,12 @@
     "https://mp.weixin.qq.com/s/39gV9pWj-eW4TeEfre1AVA": "微服务场景下 RCE 和 SSRF 的⼀次组合利⽤",
     "https://mp.weixin.qq.com/s/h2rifEOygRikkl8cI6CobQ": "数据破坏和内存中毒：Spring AI漏洞威胁LLM完整性",
     "https://mp.weixin.qq.com/s/PtGU9rZqhEgE0egOPtlAxQ": "Hermes的应用（五）：分析CopyFail（CVE-2026-31431）高危漏洞Poc",
-    "https://mp.weixin.qq.com/s/KpmWR1xn7c_pS8-RmfdOUw": "Cloudflare如何应对“Copy Fail”Linux内核漏洞"
+    "https://mp.weixin.qq.com/s/KpmWR1xn7c_pS8-RmfdOUw": "Cloudflare如何应对“Copy Fail”Linux内核漏洞",
+    "https://mp.weixin.qq.com/s/FGH1HjaghckKB_PBTX6rXQ": "荒诞！0day激增，Pwn2Own停止接收漏洞，部分落选者公开漏洞",
+    "https://mp.weixin.qq.com/s/atMxb0sUhE8I0k4mb5CIiQ": "让 AI 用 IDA 去找 IDA 自己的漏洞：一次 clang 参数注入的逆向之旅",
+    "https://mp.weixin.qq.com/s/w__uYCDzkNd9jOKgHlkYBg": "白泽成果分享：通过补丁语义分析让“依赖库漏洞传播”看得更准",
+    "https://mp.weixin.qq.com/s/DNft9VVupw1p2e6m4ZZKLA": "常见未授权访问漏洞总结",
+    "https://mp.weixin.qq.com/s/APFaBDWPmdEuc-G8cCA0DQ": "博硕BGM 系统存在默认口令漏洞复现",
+    "https://mp.weixin.qq.com/s/-74SItKLMbSnjHR8YT3fhw": "一个存在21年没有CVE的漏洞：影响 PHP 自5.1至8.5.6全版本",
+    "https://mp.weixin.qq.com/s/b3Gw6IYg8U-aIDrgNOUO1g": "React2Shell WAF 绕过实录：Vercel 花 100 万美元请黑客找漏洞"
 }
