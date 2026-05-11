@@ -20731,5 +20731,8 @@
     "https://mp.weixin.qq.com/s/Y-MeVpGfMNwLZTL8geTnsg": "雷神众测漏洞周报2026.4.27-2026.5.10",
     "https://mp.weixin.qq.com/s/sNP0A3p_J4pTjpxdSsmFzQ": "睡了个觉+花费2 元，AI挖出我的第一个 IOT RCE 漏洞",
     "https://mp.weixin.qq.com/s/vk5fU91FeZy9wnfnQUCEYA": "今日（2026年5月11日）热点网络安全漏洞动态",
-    "https://mp.weixin.qq.com/s/pPE2eaPvDzntVPpv1elPww": "CVE‑2026‑41940：cPanel∕WHM认证绕过可直接RCE，数百万服务器告急！！！"
+    "https://mp.weixin.qq.com/s/pPE2eaPvDzntVPpv1elPww": "CVE‑2026‑41940：cPanel∕WHM认证绕过可直接RCE，数百万服务器告急！！！",
+    "https://mp.weixin.qq.com/s/XB8J58Eh--JnAVefQ7z1jQ": "cPanel高危漏洞可致文件泄露与远程代码执行，数千服务器面临风险",
+    "https://mp.weixin.qq.com/s/pERVXxNNWMjZq8glq0FW-g": "从嵌入式基础到真实漏洞挖掘",
+    "https://mp.weixin.qq.com/s/FNxwrq5MdzBVTUbWfDgR9A": "Next.js高危漏洞可致SSRF攻击、DoS瘫痪"
 }
