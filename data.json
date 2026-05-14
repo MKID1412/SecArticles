@@ -20847,5 +20847,18 @@
     "https://mp.weixin.qq.com/s/MUT_y00rR7l8gONL5Or1hw": "针对 FortiSandbox 和 FortiAuthenticator 的关键漏洞已修复",
     "https://mp.weixin.qq.com/s/3fklcZ8Sx51BHn0CPFE4fQ": "首次发现！AI生成零日漏洞利用工具并实施网络攻击",
     "https://mp.weixin.qq.com/s/tjX-8QPDglISqT-LTM6h7g": "Quest KACE SMA 漏洞 CVE-2025-32975：一个未修复工具漏洞，为 60 家机构敞开入侵大门",
-    "https://mp.weixin.qq.com/s/OoW7oG-z7h8JeYvTddbCSQ": "逻辑漏洞渗透"
+    "https://mp.weixin.qq.com/s/OoW7oG-z7h8JeYvTddbCSQ": "逻辑漏洞渗透",
+    "https://mp.weixin.qq.com/s/9z4hqgJx3y6LwelzXnsaXg": "Dirty Frag的双漏洞组合",
+    "https://mp.weixin.qq.com/s/eQj7H3iv-fq9gIfvQmXRmA": "【靶场开源】NGINX 远程代码执行高危漏洞（CVE-2026-42945）",
+    "https://mp.weixin.qq.com/s/IgImXvqcmU-ItD8U346ETg": "速修复！Composer 漏洞可暴露 GitHub 密钥",
+    "https://mp.weixin.qq.com/s/8Q_GrV54Gt1fdBuNbLaWjg": "NGINX爆新漏洞，特定配置下可实现远程代码执行",
+    "https://mp.weixin.qq.com/s/x07Y0h6hukdgQcZdnuO_dw": "Ivanti 紧急修复暴露敏感数据的严重 Xtraction 漏洞",
+    "https://mp.weixin.qq.com/s/rosmbXuVUPRl4EkX3aXxZw": "Web安全之一文搞懂单端点条件竞争漏洞",
+    "https://mp.weixin.qq.com/s/aLCyE4L7yucSkDmzidTeLQ": "CNNVD关于微软多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s/k0QCeZfPYCLkuww3z_Z0fA": "漏洞通告｜Linux Kernel Fragnesia 本地权限提升漏洞 CVE-2026-46300",
+    "https://mp.weixin.qq.com/s/h7YAlhZGWIZfJHWC4m0dyg": "CVE-2026-44381：MISP 威胁情报平台 ORDER BY 子句 SQL 注入",
+    "https://mp.weixin.qq.com/s/IdcRYetzS9u6gScivEry2g": "CVE-2026-44442：ERPNext 授权检查缺失漏洞",
+    "https://mp.weixin.qq.com/s/04Nk2TcwRw3zv7djwnrW8A": "CVE-2026-8196-JeecgBoot-mLogin接口授权绕过漏洞报告",
+    "https://mp.weixin.qq.com/s/GDn4pBXhg-PvsLxKMYcEVg": "Exim BDAT 严重漏洞可导致内存损坏和代码执行攻击",
+    "https://mp.weixin.qq.com/s/McJxlZgyHBXqcoGbLVNu-A": "Exim 高危漏洞 CVE-2026-45185"
 }
