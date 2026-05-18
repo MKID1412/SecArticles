@@ -20994,5 +20994,11 @@
     "https://mp.weixin.qq.com/s/cPFGoqPSYXPXiBGY1M42xQ": "MAD Bugs：在 PHP 中寻找并利用一个尘封21年的漏洞",
     "https://mp.weixin.qq.com/s/Qpo3OshWc19dGjQoDgib_A": "精品产品 | 捷普WEB应用漏洞扫描系统",
     "https://mp.weixin.qq.com/s/hIkmAKL1EhJ62p_x7QWGhA": "【已复现】Windows 内核权限提升漏洞(CVE-2026-40369)安全风险通告",
-    "https://mp.weixin.qq.com/s/x97x810gB4_vgAjnpQkKkg": "【漏洞通告】Linux Kernel ptrace 权限提升漏洞"
+    "https://mp.weixin.qq.com/s/x97x810gB4_vgAjnpQkKkg": "【漏洞通告】Linux Kernel ptrace 权限提升漏洞",
+    "https://mp.weixin.qq.com/s/hADw9UEwBED_oGvooDT3mw": "Linus点名AI漏洞报告！Linux安全列表已被挤爆",
+    "https://mp.weixin.qq.com/s/vX7Y9OkDp3qTkBah8cWDag": "【文末抽奖】21天跑通海外SRC漏洞挖掘闭环！海外漏洞赏金猎人共学营等你来战～",
+    "https://mp.weixin.qq.com/s/YchTiKWTdScwT3TFTQLRIw": "为什么信任你的漏洞扫描器是个坏主意",
+    "https://mp.weixin.qq.com/s/mpjz1CQ5daPOfSgFkSzJUw": "东胜物流软件CrmProxyMailListGridSource.aspx接口存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s/u6d6fAUs_qncuAnW97-qug": "CVE-2026-34621：Adobe Acrobat 2026 原型污染和 JS 注入链 — 研究 PoC",
+    "https://mp.weixin.qq.com/s/fssaYRWZnW5kJrw0kvJnvQ": "上邦 电子文档安全管理系统 skins 任意文件读取漏洞"
 }
