@@ -21028,5 +21028,20 @@
     "https://mp.weixin.qq.com/s/G5XOCRU31tojEa7xs2jLuw": "【已复现】PostgreSQL pgcrypto 堆缓冲区溢出漏洞(CVE-2026-2005)安全风险通告",
     "https://mp.weixin.qq.com/s/rQKZQmWL2-HTwtVfTxLjDQ": "DudeSuite 漏洞播报 全网漏洞早知道【20260519】",
     "https://mp.weixin.qq.com/s/fwDm_XiM1_3kmfP-Z1jKLQ": "XXE到Chrome RCE：一次完整的不出网利用实践",
-    "https://mp.weixin.qq.com/s/Ana0k_NNjTzTY_j_l188mA": "奇安信Qcode Agents重磅升级，正式解锁操作系统级漏洞挖掘能力"
+    "https://mp.weixin.qq.com/s/Ana0k_NNjTzTY_j_l188mA": "奇安信Qcode Agents重磅升级，正式解锁操作系统级漏洞挖掘能力",
+    "https://mp.weixin.qq.com/s/KLDxXBL1unCcM7qqFbrtVw": "Nginx 致命漏洞 CVE-2026-42945 复现",
+    "https://mp.weixin.qq.com/s/r0SFHbEEZ_H9uLpr_FgutQ": "人工智能重要漏洞通报（2026年第七期）",
+    "https://mp.weixin.qq.com/s/3dYNnSzYJrMiR7kcZznK4g": "vm2沙箱逃逸满分漏洞？AI有点东西",
+    "https://mp.weixin.qq.com/s/o95KZlzNTYn_6rQ9G5Yt4Q": "CVE-2020-17103 显然未修复或补丁已被撤销，无论如何，这是 cldflt.sys 中 LPE 的 PoC",
+    "https://mp.weixin.qq.com/s/ECLo6bRHiIQETIjhLYllgQ": "威胁日简报 - AN-OS 远程代码执行漏洞（CVE-2026-0300）已在野利用",
+    "https://mp.weixin.qq.com/s/7aiu0QKC8mg1wo89Vjjx9A": "WordPress插件严重漏洞使网站面临身份验证绕过攻击风险",
+    "https://mp.weixin.qq.com/s/pVBvm545PMvDAmHTI8DhCA": "【免费领】智能设备安全技术干货：路由器0day漏洞挖掘指南",
+    "https://mp.weixin.qq.com/s/-7uDx2VafYdGH78FtcHRRg": "人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞",
+    "https://mp.weixin.qq.com/s/zCdlbywODuqMWspBGBJoVQ": "信息安全漏洞周报（2026年第20期）",
+    "https://mp.weixin.qq.com/s/aZ1nOJoi8X3zOyTTZGp_zQ": "实力上榜！众安天下跻身工信部首批网络产品安全漏洞收集备案平台",
+    "https://mp.weixin.qq.com/s/wOkzIx_N9sk8uHEul01z8A": "“百密一疏”：轻量TCP∕IP协议栈 lwIP（Lightweight IP）SMTP客户端堆溢出致RCE",
+    "https://mp.weixin.qq.com/s/GmINFY9tJ8IVVluqDqunpg": "Windows“MiniPlasma”零日漏洞可使攻击者获得SYSTEM权限——概念验证代码已发布",
+    "https://mp.weixin.qq.com/s/vHLjBK2608i_L1wzS_U59Q": "Linux 本地提权工具 支持多个Linux 内核和 Polkit 漏洞 | AnolisOS、openEuler、统信UOS、openKylin、Ubuntu、CentOS 7",
+    "https://mp.weixin.qq.com/s/YmHeEd6It-lED_aMwArdBQ": "【漏洞通告】Windows Cloud Files Mini Filter Driver 本地权限提升漏洞(CVE-2020-17103)",
+    "https://mp.weixin.qq.com/s/y_SnusnFpjiA9CzVkggI0Q": "针对 Nginx CVE-2026-42945 的 PoC"
 }
