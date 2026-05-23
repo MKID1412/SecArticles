@@ -21120,5 +21120,6 @@
     "https://mp.weixin.qq.com/s/HslC1JtRrrHdsPuu48achw": "cPanel&WHM高危任意文件读取漏洞（CVE‑2026‑29205）",
     "https://mp.weixin.qq.com/s/8EmKtZsBbKTpkeE4OWZmyw": "StubZero：谷歌云生产环境中的RCE漏洞",
     "https://mp.weixin.qq.com/s/yQhU6JcXX6NLGVx7X9pfGg": "安全圈的狼来了：那些\"高危\"漏洞为何最终用不上",
-    "https://mp.weixin.qq.com/s/ZQwt43XOwi5RVr9VUa_oFA": "SRC 每日漏洞复现学习系列（第 8 篇）：反射型 XSS 漏洞详解与报告模板"
+    "https://mp.weixin.qq.com/s/ZQwt43XOwi5RVr9VUa_oFA": "SRC 每日漏洞复现学习系列（第 8 篇）：反射型 XSS 漏洞详解与报告模板",
+    "https://mp.weixin.qq.com/s/WbVDivZkzkQUdncwApaozg": "[SRC]漏洞显现"
 }
