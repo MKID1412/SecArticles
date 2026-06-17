@@ -21238,5 +21238,18 @@
     "https://mp.weixin.qq.com/s/whSHR1tk7HAiRhYDLK7zbg": "Cisco SD-WAN vManage 漏洞遭零日攻击利用",
     "https://mp.weixin.qq.com/s/lS-ugJSUlHDxQ5-vv2EXaw": "ThrottleStop.sys 驱动漏洞（CVE-2025-7771）：BYOVD 技术实现 Windows Ring 0 权限提升",
     "https://mp.weixin.qq.com/s/JOGwAezjHmAB0hyI7kYPsw": "Cisco SD-WAN 管理器又曝已遭利用漏洞：真正危险的，是管理平面被盯上了",
-    "https://mp.weixin.qq.com/s/iX69qfSFg_bfhMawoEigvw": "MongoDB服务器漏洞浪潮冲击文档数据库"
+    "https://mp.weixin.qq.com/s/iX69qfSFg_bfhMawoEigvw": "MongoDB服务器漏洞浪潮冲击文档数据库",
+    "https://mp.weixin.qq.com/s/wgnYYjGmHUnkJcV7IEafvA": "NVIDIA NeMo曝安全漏洞，系统面临命令注入攻击风险",
+    "https://mp.weixin.qq.com/s/kxS_P0elGBsZtXYGnf4qKQ": "Google紧急发布Chrome安全更新，修复可致任意代码执行的关键漏洞",
+    "https://mp.weixin.qq.com/s/Y7x2um1kBIPiLAPD75Y_Cw": "攻击者正利用FortiSandbox三大漏洞发起攻击，未认证即可获取root权限",
+    "https://mp.weixin.qq.com/s/zYfBVcxPBsiTW0kW3i1p-Q": "直播预约｜2026 火山引擎 Force 数据智能论坛 全新升级+核心能力抢先看",
+    "https://mp.weixin.qq.com/s/rd9AN4jERTTy7Gok01YGZQ": "Kernel 新漏洞曝光！多款主流 Linux 发行版存在 Root 本地提权风险",
+    "https://mp.weixin.qq.com/s/1F_VKdktObwmbE8hlinRrA": "【漏洞通告】Splunk Enterprise 预认证远程代码执行漏洞(CVE-2026-20253)",
+    "https://mp.weixin.qq.com/s/gLNs9uh7SR1DR70_qEsc4A": "安全审计 Agent 不能只要“报漏洞”，而要证明漏洞",
+    "https://mp.weixin.qq.com/s/dz8Flgs4YnTj78ZFC3PgWQ": "2026攻防演练必修高危漏洞集合（1.0版）",
+    "https://mp.weixin.qq.com/s/FWZmcFiKSRmFRrqNfWatlg": "美国网络安全和基础设施安全局 (CISA) 发布警报，称 Oracle PeopleSoft 漏洞已被勒索软件组织利用",
+    "https://mp.weixin.qq.com/s/lfF4dYWFoKIjl9ayOWBxVA": "一键即破防：M365 Copilot \"SearchLeak\" 漏洞链全解析（CVE-2026-42824）",
+    "https://mp.weixin.qq.com/s/l2bYHN6IOwbh9PqP_q7Afg": "CNNVD | 新一批OpenClaw多个安全漏洞通报",
+    "https://mp.weixin.qq.com/s/d_K08FHmoCsLsNSJQ78nZA": "世界杯官方赛事系统曝漏洞：电视直播流未设置权限，可被任意查看篡改",
+    "https://mp.weixin.qq.com/s/X69jKHzCpTmMykqPkbnE0g": "2026上半年你需要关注的高危漏洞合集！"
 }
