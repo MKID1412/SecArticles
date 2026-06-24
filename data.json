@@ -21372,5 +21372,8 @@
     "https://mp.weixin.qq.com/s/kskTQ5jSnmDAK47sVuzBkw": "用 AI 挖掘 IDA Pro 任意代码执行漏洞",
     "https://mp.weixin.qq.com/s/fnrsm_ZiyNdY5RO_mSafIQ": "三星 KNOX 内核释放后重用漏洞，数百万 Galaxy 系列手机面临风险",
     "https://mp.weixin.qq.com/s/YV6Vlh7EGTXijGmu3rTSUg": "国际足联后台曝出高危漏洞，黑客可随意篡改世界杯直播",
-    "https://mp.weixin.qq.com/s/fUnhFCG40nZ1Evik1wYz1g": "Joomla JCE Editor 双高危漏洞预警（CVE-2026-48907 ∕ CVE-2026-48908）"
+    "https://mp.weixin.qq.com/s/fUnhFCG40nZ1Evik1wYz1g": "Joomla JCE Editor 双高危漏洞预警（CVE-2026-48907 ∕ CVE-2026-48908）",
+    "https://mp.weixin.qq.com/s/WFYj3seeH2_xti7RLU16vQ": "CTF比赛入门第十期：文件上传漏洞全解",
+    "https://mp.weixin.qq.com/s/CbxafV85UwNkyL7lSRksrQ": "CVE-2026-41089：Windows Netlogon 通过 CLDAP 堆栈缓冲区溢出进行远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/3MEUCzesYJmxq1aHAreM4A": "libssh2 CVE-2026-55200 PoC 和本地 RCE"
 }
