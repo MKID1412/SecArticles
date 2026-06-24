@@ -21378,5 +21378,6 @@
     "https://mp.weixin.qq.com/s/3MEUCzesYJmxq1aHAreM4A": "libssh2 CVE-2026-55200 PoC 和本地 RCE",
     "https://mp.weixin.qq.com/s/YEm5YIvDE_8U7EZ4aeqcOQ": "关于规范 AI 辅助漏洞报告提交标准的公告",
     "https://mp.weixin.qq.com/s/52YAM_DXiI9hE4eXddOVlw": "邮件服务器预警：Exchange 多个 SSRF 漏洞利用细节已公开",
-    "https://mp.weixin.qq.com/s/Kp_lGaMx_tlm7uUbKFup2w": "用友U8 CRM getsrvtemplate.php SQL注入漏洞"
+    "https://mp.weixin.qq.com/s/Kp_lGaMx_tlm7uUbKFup2w": "用友U8 CRM getsrvtemplate.php SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/pAhdg_YyZY-pMDA_5-muwg": "Anthropic 的 Mythos 模型在美国政府系统中发现漏洞"
 }
