@@ -21425,5 +21425,8 @@
     "https://mp.weixin.qq.com/s/RrlwDTY1WRhGWCKDTd2G_w": "CISA：Lantronix EDS5000 严重漏洞正遭活跃利用",
     "https://mp.weixin.qq.com/s/Dg1QcxfykVhPNo5p3j8Mig": "信息安全漏洞预警（2026年6月22日-2026年6月26日）",
     "https://mp.weixin.qq.com/s/DddGHEw39sExURlFcOx9Sw": "Cisco CUCM SSRF 漏洞 PoC 公开后遭利用，可通过文件写入提权至 Root",
-    "https://mp.weixin.qq.com/s/zZXEFpxBT8kBf806tmGbUA": "Android跨用户隔离批量漏洞挖掘与利用实践"
+    "https://mp.weixin.qq.com/s/zZXEFpxBT8kBf806tmGbUA": "Android跨用户隔离批量漏洞挖掘与利用实践",
+    "https://mp.weixin.qq.com/s/rqb5G7wrtgdmwCAvbIvqKA": "CVE-2026-25860 - OpenClinic GA 反射型 XSS 漏洞导致远程代码执行",
+    "https://mp.weixin.qq.com/s/3uepeUGGnQMGIHTggkhw6w": "CISA警告：思科统一配置管理（Cisco Unified CM）漏洞已被攻击者利用",
+    "https://mp.weixin.qq.com/s/nKWR5Sypju9tNsac5zPGgw": "GeoLocate CVE-2025-52465 - GeoServer漏洞利用"
 }
