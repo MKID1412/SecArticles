@@ -21447,5 +21447,8 @@
     "https://mp.weixin.qq.com/s/wNDxXW1HFrVfYEUWFmf2HQ": "用 AI 自动完成渗透测试流程，从发现漏洞到利用漏洞一步到位",
     "https://mp.weixin.qq.com/s/zKBNTIsSQ8qbo0GYK2We9g": "单看都是中低危，组合起来却拿下严重漏洞？赏金猎人都在练的CORS+反射XSS组合拳",
     "https://mp.weixin.qq.com/s/GyPRpnzp7jn5yZWpJJ637g": "【重磅上线】系统0day安全——主流企业防火墙漏洞挖掘",
-    "https://mp.weixin.qq.com/s/wNZgCl8G7V3S0RMvXyYjhg": "漏洞复现 | 天融信上网行为管理系统 pc.php 接口存在xss漏洞"
+    "https://mp.weixin.qq.com/s/wNZgCl8G7V3S0RMvXyYjhg": "漏洞复现 | 天融信上网行为管理系统 pc.php 接口存在xss漏洞",
+    "https://mp.weixin.qq.com/s/pUt3tAli7UbQlmlSDVdR6w": "打开一个恶意仓库就能偷走你的云账号：Amazon Q 插件高危漏洞分析",
+    "https://mp.weixin.qq.com/s/NIG9PDJ-DUKEV-hSHhaCwA": "JCE 编辑＜ 2.9.99.5 — 未认证远程代码执行（CVE-2026-48907）扫描器",
+    "https://mp.weixin.qq.com/s/HbEIBTCoOElCd_18VfWO-Q": "自动化漏洞扫描器 -- hack_scanner"
 }
