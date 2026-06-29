@@ -21487,5 +21487,6 @@
     "https://mp.weixin.qq.com/s/Z9n0BzA77wIVB7eC3ink1g": "【高危漏洞预警】Linux内核高危本地提权漏洞CVE-2026-43503（DirtyClone）",
     "https://mp.weixin.qq.com/s/fyubodc5SwWNAtvElTdovA": "c-ares TCP Use-After-Free 漏洞深度解析：从 DNS 响应序列到本地 Calculator 代码执行 PoC",
     "https://mp.weixin.qq.com/s/_awDBmo5hdsBrmpsCZkWaQ": "【深度技术解析】objdump DLX 后端 Out-of-Bounds 写入导致的本地 ACE PoC 详解",
-    "https://mp.weixin.qq.com/s/QOTc3Q1iige53JjtpvYCgA": "CVE-2026-40409 UDFS的整数截断漏洞分析"
+    "https://mp.weixin.qq.com/s/QOTc3Q1iige53JjtpvYCgA": "CVE-2026-40409 UDFS的整数截断漏洞分析",
+    "https://mp.weixin.qq.com/s/5N6vkJckrlk8XLmAYvE0qA": "攻击面管理系统｜AI 驱动资产测绘 + 万条 Nuclei 漏洞库，自动生成漏洞 EXP，内网公网一键扫描利用"
 }
