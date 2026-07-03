@@ -21600,5 +21600,20 @@
     "https://mp.weixin.qq.com/s/B_UzIVT-x2jPn5S7ok5_BA": "别再死磕漏洞了：你和顶尖黑客之间，可能只差了这一行API",
     "https://mp.weixin.qq.com/s/hpnsi8q4ccelIoPZSu5CcQ": "目录遍历漏洞绕过指南：穿越防火墙，直通赏金",
     "https://mp.weixin.qq.com/s/yB3Z_IjRBVu9AK8dSwhvEQ": "红队实战：本地AI如何发现其他工具都漏掉的漏洞",
-    "https://mp.weixin.qq.com/s/98G_M8Gx5XVON6jkPmim0A": "StoneFly 存储集中器漏洞可导致未经身份验证的 root 访问"
+    "https://mp.weixin.qq.com/s/98G_M8Gx5XVON6jkPmim0A": "StoneFly 存储集中器漏洞可导致未经身份验证的 root 访问",
+    "https://mp.weixin.qq.com/s/g9NUfMN9f2yOB2GWU-ZvvQ": "信息安全漏洞预警（2026年6月29日-2026年7月3日）",
+    "https://mp.weixin.qq.com/s/ajj-jgIxb9QIViikNIK9Hw": "【已复现】Adobe ColdFusion 路径穿越漏洞(CVE-2026-48282)安全风险通告",
+    "https://mp.weixin.qq.com/s/QYTY5O_RQtUKJffd14kklg": "ChocoPoC 瞄准安全研究员：假的 PoC 仓库，真的是供应链攻击",
+    "https://mp.weixin.qq.com/s/gtkkp3txJGE_SVYd4k3UAA": "Cisco Unified CM 漏洞确认被利用：企业电话系统，也是关键控制面",
+    "https://mp.weixin.qq.com/s/6vjFIzy6jTw66xoRmcispg": "Chrome V8 沙箱逃逸漏洞",
+    "https://mp.weixin.qq.com/s/R3D8BFUVxH6ph3ZW__ZZwg": "星球更新：一条 pre-auth 0day 链，从 XSS 到终端 RCE",
+    "https://mp.weixin.qq.com/s/_3o4g33ybFundhWIPMs35A": "DVWA每日实操系列｜第3期命令注入漏洞 Command Injection｜四层手把手通关 + 服务器权限接管 + 可直接交SRC高危报告",
+    "https://mp.weixin.qq.com/s/kA9sgBnLcko08dWljqAcgg": "【全网首发】Weax与Sorry勒索病毒席卷全国中小企业，深度还原全链路攻击，疑似黑客利用AI挖掘管家婆0day漏洞",
+    "https://mp.weixin.qq.com/s/ikzBT0BpPap4weQnDKCsKg": "安全热点周报：SimpleHelp 高危漏洞遭恶意利用，新型窃取木马借机投放",
+    "https://mp.weixin.qq.com/s/tHzQFLmLLxtKtoLxAvOGqA": "聚焦 | 2026年度基础软硬件产品漏洞生态联盟大会成功召开",
+    "https://mp.weixin.qq.com/s/0mQcoUGa_IL4s6D_eJMVww": "Adobe ColdFusion 多个漏洞细节已公开，可导致远程代码执行",
+    "https://mp.weixin.qq.com/s/s-T_NPMeG6eeQoJmcIVDxg": "SharePoint RCE 被列入 KEV：协作平台，不该成为补丁盲区",
+    "https://mp.weixin.qq.com/s/QyOBMUaiDf1TPAvoqtTMyA": "7月社区投稿活动 | 漏洞挖掘∕AI渗透",
+    "https://mp.weixin.qq.com/s/eQNzdFwf_TAahjeCWBzbfQ": "容器隔离的底层防线正在失效？NDSS 2026论文拆解云原生最隐蔽的同步漏洞",
+    "https://mp.weixin.qq.com/s/XtR710ZEj7TYzuEyr3y91w": "Win32k回调绕道：滥用合法的内核到用户回调分发进行代码执行"
 }
