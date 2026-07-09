@@ -21706,5 +21706,12 @@
     "https://mp.weixin.qq.com/s/oSNqXiN9cS8V_2xTAPVX-g": "BeyondTrust 远程接入平台四枚高危漏洞全拆解：从认证绕过到\"零信任\"信任崩塌的完整攻击链",
     "https://mp.weixin.qq.com/s/bAnlw-h1kFtNhYcB3xVohg": "7月社区投稿活动 | 漏洞挖掘∕AI渗透",
     "https://mp.weixin.qq.com/s/huX7DXc5K58FgJgjdNktIg": "GhostLock：已存在15年的内核 UAF 漏洞，影响 Linux 所有发行版",
-    "https://mp.weixin.qq.com/s/rxFYZyc7tNO2TYz4jQsYPg": "大模型 2025–2026 新CVE 漏洞全景∕技术详情"
+    "https://mp.weixin.qq.com/s/rxFYZyc7tNO2TYz4jQsYPg": "大模型 2025–2026 新CVE 漏洞全景∕技术详情",
+    "https://mp.weixin.qq.com/s/pFH1fmJfTxweGR91iY3NPQ": "【AI安全】Llm-Vuln-Checker开源！金丝雀悄悄揪出LLM安全漏洞",
+    "https://mp.weixin.qq.com/s/JpLL8uahfDwGhaTDinUS7g": "【漏洞通告】XWiki Platform Old Core 目录遍历漏洞(CVE-2026-34151)",
+    "https://mp.weixin.qq.com/s/CIKNm78KOXbfkO_aXCcgIg": "【已复现】用友U8cloud XChangeServlet SQL注入漏洞(QVD-2026-38848)安全风险通告",
+    "https://mp.weixin.qq.com/s/MpebdOCePYUPgo-QBzhalA": "【漏洞通告】Linux Kernel GhostLock 权限提升漏洞(CVE-2026-43499)",
+    "https://mp.weixin.qq.com/s/KwXtaKHC8b7PwcbUqvYjcA": "【无问AI网安模型】二进制漏洞分析挖掘能力实战测评",
+    "https://mp.weixin.qq.com/s/Y_XDIUcv-_zYUg9udkNqkQ": "启明星辰发布天镜AI-PTS，破解漏洞验证自动化难题",
+    "https://mp.weixin.qq.com/s/0dUn1ZJEpeaOb9uKXR5uxA": "【漏洞通告】Linux Kernel rtmutex 本地权限提升漏洞(CVE-2026-43499)"
 }
