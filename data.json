@@ -22549,5 +22549,11 @@
     "https://mp.weixin.qq.com/s/PzLUq_mG4CZfnVB9iDGurg": "关于WiFi万能钥匙SRC暂停接收安全漏洞的通知",
     "https://mp.weixin.qq.com/s/l4pqUMxUwJ1dLXxFtpfxiA": "Oracle PeopleSoft漏洞遭大规模利用，攻击者绕过WAF植入WebShell",
     "https://mp.weixin.qq.com/s/4yZIKxI_RZ-lWquQvYMlrA": "WordPress 严重本地文件包含漏洞，可实现 RCE，野外已出现利用（CVE-2026-87902）",
-    "https://mp.weixin.qq.com/s/S0nHip7G31hmeEFAgwtlDA": "【安全速报】9月28日高危漏洞紧急预警"
+    "https://mp.weixin.qq.com/s/S0nHip7G31hmeEFAgwtlDA": "【安全速报】9月28日高危漏洞紧急预警",
+    "https://mp.weixin.qq.com/s/Kiw97NtqTjcjleTs_6jsvw": "【安全圈】Citrix曝双严重零日漏洞",
+    "https://mp.weixin.qq.com/s/-xlPD7Z7tKip_pY_GrS0jw": "(10分) CVE-2026-101001：Netcore路由器未鉴权命令注入",
+    "https://mp.weixin.qq.com/s/Xwndbk_hbU33TRLII6Jcrg": "基于Ai自主代码审计的红队Agent，真正做到审计出漏洞",
+    "https://mp.weixin.qq.com/s/WWEGmOhvdJFK54IXpsgErg": "【安全圈】Cloudflare容器曝隔离漏洞：残余数据可跨租户窃取",
+    "https://mp.weixin.qq.com/s/XZ4ujpiXd0wmXpDZ3NRzzQ": "CNNVD | 关于Citrix NetScaler Application Delivery Controller 输入验证错误漏洞的通报",
+    "https://mp.weixin.qq.com/s/9fZ9iseX1RcLHnTRq5gWrg": "漏洞挖掘和红队工作技能包 - Claude-BugHunter"
 }
