@@ -22590,5 +22590,21 @@
     "https://mp.weixin.qq.com/s/pw--NfjpGQqJKDbKI-_JHg": "Temu 白菜摄像头打到 root：Jooan C9TS 从 UART 到诊断模式 RCE",
     "https://mp.weixin.qq.com/s/TL7b8NgUQQr8QoDtysln6w": "【在野利用】Citrix NetScaler 命令注入漏洞（CVE-2026-88771）",
     "https://mp.weixin.qq.com/s/SWm8pqmQ41L1Rd_tj5PaCA": "DDE 回调劫持：一个藏在 explorer.exe 里的进程注入 primitive",
-    "https://mp.weixin.qq.com/s/ubOHE92IDAAGENQwf7DcHw": "CVE-2026-51990 | 搜狗输入法Windows版远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s/ubOHE92IDAAGENQwf7DcHw": "CVE-2026-51990 | 搜狗输入法Windows版远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/rNcz37vLoVwapVja4TjcCw": "redisRCE复盘",
+    "https://mp.weixin.qq.com/s/XLId0bCdiNJaRoTSMN0c1A": "【漏洞预警】Citrix NetScaler 命令注入漏洞",
+    "https://mp.weixin.qq.com/s/2deFsswBKjwGsSp1bKSs_w": "【漏洞通告】VMware vCenter存在目录遍历漏洞(CVE-2026-59310)",
+    "https://mp.weixin.qq.com/s/EXwz-HaHLoo0eFcG4zU4Ew": "【高危漏洞预警】Citrix NetScaler ADC ∕ NetScaler Gateway预认证命令注入远程代码执行漏洞CVE-2026-88771",
+    "https://mp.weixin.qq.com/s/mdK_IcZ5LHMz6vzd_zQeiA": "【地图大师的代码审计之路 第二篇】从代码层看懂越权与未授权漏洞为何如此高发",
+    "https://mp.weixin.qq.com/s/Ll2JAkr35FbwNOc03QtQ8Q": "CVE-2026-101909 深度解析：Axios 不是漏洞入口，而是原型污染的「放大器」",
+    "https://mp.weixin.qq.com/s/_Z38qSHvDhI-X5NwN9SnAg": "(10分) CVE-2026-102240：Netcore AP未认证命令注入，一条GET拿root",
+    "https://mp.weixin.qq.com/s/rAB8v9QOL5VxaivLBPetEA": "【漏洞通告】Citrix NetScaler ADC∕Gateway未授权命令注入漏洞(CVE-2026-88771)",
+    "https://mp.weixin.qq.com/s/Psj1IUoiG1_oab5VgHZRNQ": "54款大模型测出873个漏洞，网安生该学什么？",
+    "https://mp.weixin.qq.com/s/vPfYBWQgkcMIAm9KGcUPXg": "iOS 26.7.1 发布了：一个已经被用过的漏洞",
+    "https://mp.weixin.qq.com/s/xcwzaMESU-RZVc3n_hWvyQ": "资产遍布全国、漏洞库三年翻倍的背后，某大型集团的漏扫为什么越来越\"稳\"？",
+    "https://mp.weixin.qq.com/s/blesnGMBRJCqH2ImkBSaRg": "Linux容器逃逸漏洞细节及概念验证（PoC）代码披露",
+    "https://mp.weixin.qq.com/s/jxGWgsutM9OGF-TsFtpDhA": "哦豁，脚上的枪又响了：Citrix NetScaler 预认证命令注入 CVE-2026-88771 复盘",
+    "https://mp.weixin.qq.com/s/DiDJKzTMpC9q2cqxpz4oCA": "【安全圈】MCP官方SDK高危漏洞：恶意服务可盗取OAuth凭证",
+    "https://mp.weixin.qq.com/s/CFQdEGhb3d7ulwAsnmCLRQ": "【安全圈】看张图片就中招？苹果的这个漏洞你一定要看",
+    "https://mp.weixin.qq.com/s/3U0cCa95-sU0HdiQu52zOg": "昂贵的代价！知名金融机构因供应商漏洞失陷，超26亿元失窃"
 }
