@@ -22639,5 +22639,15 @@
     "https://mp.weixin.qq.com/s/3YYptUdqP7vB4Kc-7sNUig": "【已复现】Next.js next∕og 未授权远程代码执行漏洞（CVE-2026-94545）",
     "https://mp.weixin.qq.com/s/XUi4Y_AFN1DCCfuBmC2iKA": "动态｜关于2026年人工智能大模型安全众测活动典型漏洞风险的通报",
     "https://mp.weixin.qq.com/s/ZJV0vSPtw4jaN2Hjmy3eug": "用 Jev 构建更快、更便宜的漏洞扫描器",
-    "https://mp.weixin.qq.com/s/kVOXrF2RvAbG2NL4lvrGRQ": "CNNVD发布人工智能重要安全漏洞的通报；美国政府推出面向公众的政务 AI 聊天机器人| 牛览"
+    "https://mp.weixin.qq.com/s/kVOXrF2RvAbG2NL4lvrGRQ": "CNNVD发布人工智能重要安全漏洞的通报；美国政府推出面向公众的政务 AI 聊天机器人| 牛览",
+    "https://mp.weixin.qq.com/s/srpFayIqThg95Pb6MJKzCg": "专题·原创 | 人工智能时代电信运营商漏洞安全治理体系重构与实践",
+    "https://mp.weixin.qq.com/s/dot4IaTcv9aCrQtqNY_BAA": "MCP Python SDK 高危 OAuth 漏洞曝光，AI Agent 账号存在被劫持风险",
+    "https://mp.weixin.qq.com/s/dVPfaeLA9zvAtwbb6b9now": "【漏洞情报】2026年9月车联网漏洞态势综述",
+    "https://mp.weixin.qq.com/s/I7DV_PBZ0tO_c3TL_d6xVw": "Glasswing项目公布五月实测数据，AI漏洞误报率较高",
+    "https://mp.weixin.qq.com/s/3wGsbpxZc_tjL8u7RFalRw": "Bitget披露3.88亿美元被盗细节，第三方安全产品0Day成入侵入口",
+    "https://mp.weixin.qq.com/s/eqe3d6YPvHO8T7Orx3Z_dg": "【安全圈】OpenSSL修复DTLS高危漏洞：重传逻辑缺陷致未加密堆内存外泄",
+    "https://mp.weixin.qq.com/s/1ZdELz9p0u05bt-23nq2RQ": "【漏洞通告】Next.js next∕og未授权远程代码执行漏洞(CVE-2026-94545)",
+    "https://mp.weixin.qq.com/s/6bzWN9mP6wD5c0rwpGqA5A": "从一条审批API请求，挖掘严重漏洞",
+    "https://mp.weixin.qq.com/s/dbCopeejL_EwV4UQQCtFoA": "【高危漏洞预警】Next.js ImageResponseRCE漏洞CVE-2026-94545",
+    "https://mp.weixin.qq.com/s/BJ6xcb874rx0okXA8LODEQ": "【安全圈】全新幽灵BTR漏洞曝光：绕过主流防御窃取Linux内核高权哈希"
 }
