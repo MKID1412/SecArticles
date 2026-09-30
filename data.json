@@ -22624,5 +22624,20 @@
     "https://mp.weixin.qq.com/s/zOGai1n1tTcCu_A5R_Oe4w": "苹果修复或已用于定向攻击的 CoreGraphics 漏洞",
     "https://mp.weixin.qq.com/s/_NWYy8Ur6cxBfK9dUlgqSQ": "【热点安全风险】9月30日｜Apple 修复已在野利用的零日漏洞，攻击者可用恶意文件执行任意代码（CVE-2026-86950）",
     "https://mp.weixin.qq.com/s/0qjdfPjIXOfK9vLj0KOGRA": "【漏洞复现】CVE-2026-51990 | 搜狗输入法Windows版远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s/lP0Lx-LIkgvY_xJ7DFrl2g": "300+工具 + 7大AI引擎 + 6.8万漏洞库：这款安全工具箱太顶了！"
+    "https://mp.weixin.qq.com/s/lP0Lx-LIkgvY_xJ7DFrl2g": "300+工具 + 7大AI引擎 + 6.8万漏洞库：这款安全工具箱太顶了！",
+    "https://mp.weixin.qq.com/s/WCkFJHSczqP6TSZmLKImvg": "20年前的老漏洞， 2026年为什么还能秒穿四成系统",
+    "https://mp.weixin.qq.com/s/V5OXtFGSdZnOogjNLurT2g": "UFlowBot：多漏洞传播的新型UDP僵尸网络",
+    "https://mp.weixin.qq.com/s/7vMPEDqrOlf8Gu1q4-NW6g": "关于规范AI辅助漏洞测试行为的公告",
+    "https://mp.weixin.qq.com/s/gYQtx9TFHkhtjgQbe98XVg": "macOS SMB 内核漏洞 CVE-2026-84543：详情与概念验证（PoC）漏洞利用代码发布",
+    "https://mp.weixin.qq.com/s/jEUtYm-Bxxv_zn6pLcli7A": "Podman曝CVSS 10.0严重容器逃逸漏洞(CVE-2026-94603)，恶意镜像可绕过沙箱限制",
+    "https://mp.weixin.qq.com/s/DECfq5gZodGVi2c9DjtCVQ": "下载的python也可能是木马？pythonw.exe 木马全链路复现",
+    "https://mp.weixin.qq.com/s/UXISN-owhS5b7IDcTWAIZA": "CFCA安全响应中心「洞寻」上线｜打造金融行业漏洞检测新范式",
+    "https://mp.weixin.qq.com/s/MIBq2MiHVanuRC4em6gj0g": "【已复现】漏洞通告 | Next.js next∕og 未授权远程代码执行漏洞(CVE-2026-94545)",
+    "https://mp.weixin.qq.com/s/RnIZ-x-WOgUxtwwokSornQ": "海量告警里揪出黑客诡计，360AI安全专家实锤0day RCE漏洞完整攻击链",
+    "https://mp.weixin.qq.com/s/UBeYadj2ZoueSaH1d5CgWA": "【安全速报】9月30日高危漏洞紧急预警",
+    "https://mp.weixin.qq.com/s/g7ebwHxbd4kRjjK3hJ2Law": "炸裂！这款开源Web漏洞扫描器让安全检测效率提升百倍",
+    "https://mp.weixin.qq.com/s/3YYptUdqP7vB4Kc-7sNUig": "【已复现】Next.js next∕og 未授权远程代码执行漏洞（CVE-2026-94545）",
+    "https://mp.weixin.qq.com/s/XUi4Y_AFN1DCCfuBmC2iKA": "动态｜关于2026年人工智能大模型安全众测活动典型漏洞风险的通报",
+    "https://mp.weixin.qq.com/s/ZJV0vSPtw4jaN2Hjmy3eug": "用 Jev 构建更快、更便宜的漏洞扫描器",
+    "https://mp.weixin.qq.com/s/kVOXrF2RvAbG2NL4lvrGRQ": "CNNVD发布人工智能重要安全漏洞的通报；美国政府推出面向公众的政务 AI 聊天机器人| 牛览"
 }
