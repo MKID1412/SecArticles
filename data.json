@@ -22649,5 +22649,17 @@
     "https://mp.weixin.qq.com/s/1ZdELz9p0u05bt-23nq2RQ": "【漏洞通告】Next.js next∕og未授权远程代码执行漏洞(CVE-2026-94545)",
     "https://mp.weixin.qq.com/s/6bzWN9mP6wD5c0rwpGqA5A": "从一条审批API请求，挖掘严重漏洞",
     "https://mp.weixin.qq.com/s/dbCopeejL_EwV4UQQCtFoA": "【高危漏洞预警】Next.js ImageResponseRCE漏洞CVE-2026-94545",
-    "https://mp.weixin.qq.com/s/BJ6xcb874rx0okXA8LODEQ": "【安全圈】全新幽灵BTR漏洞曝光：绕过主流防御窃取Linux内核高权哈希"
+    "https://mp.weixin.qq.com/s/BJ6xcb874rx0okXA8LODEQ": "【安全圈】全新幽灵BTR漏洞曝光：绕过主流防御窃取Linux内核高权哈希",
+    "https://mp.weixin.qq.com/s/Wxm3mlc1Ql4oeQa6-ysoiA": "记一次曲折的onlyoffice漏洞利用，成功getshell！",
+    "https://mp.weixin.qq.com/s/iCT-ZLl9bnCJseC5s66pUA": "SolarWinds 的严重漏洞使攻击者能够远程在服务器上执行代码",
+    "https://mp.weixin.qq.com/s/7FJ54VCLRF7rQib5k2o3RA": "(9.9分) CVE-2026-102911：pi-llm-wiki MCP工具命令注入RCE",
+    "https://mp.weixin.qq.com/s/QPRiWCsUvv8dCJZTvUT_gA": "SharePoint与MikroTik曝高危RCE，黑客已在疯狂利用！",
+    "https://mp.weixin.qq.com/s/EbnIHz5rfb8RJSuu-JmwNQ": "(9.8分) CVE-2026-76504：思科SD-WAN管理平台认证绕过",
+    "https://mp.weixin.qq.com/s/ACcihEtNAyF5AaEI2HxQgg": "AI代理挖洞：从代码到RCE的漏洞研究工作流",
+    "https://mp.weixin.qq.com/s/tJKiXbtJNbhUgHji8sU9jA": "MikroTik RouterOS 严重漏洞可导致未认证根 RCE",
+    "https://mp.weixin.qq.com/s/5zDwnQQZcSk7iz-h3sNlGA": "HexStrike AI：127个工具+MCP协议，我把Kali变成了AI驱动的攻击平台，但它把自己也变成了漏洞",
+    "https://mp.weixin.qq.com/s/OZNzUiH_gqfVFxIZNgRQzA": "Windows PoC 工厂上线：PoCSmith 把逆向、调试、复现全自动化",
+    "https://mp.weixin.qq.com/s/KuD2CdtI6mzPMFHi6Nqr6A": "【已复现】Citrix NetScaler 预认证远程代码执行漏洞（CVE-2026-88772）",
+    "https://mp.weixin.qq.com/s/ZYkuZzCQpkrzFiBEo4RVxw": "【转译】从SELECT到SYSADMIN：用SQL Copilot提权（CVE-2026-65669） 值得一看",
+    "https://mp.weixin.qq.com/s/2mwry3k_ITtvniFkoOOmgQ": "仅用一个字符绕过WAF！Oracle PeopleSoft 顶级漏洞 (CVE-2026-35273) 攻击链深度解析"
 }
