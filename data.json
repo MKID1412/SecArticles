@@ -22806,5 +22806,7 @@
     "https://mp.weixin.qq.com/s/9-cNp0hZOC_Vd0BPhKYiFQ": "一个漏洞从发现到修复，中间到底经历了什么？",
     "https://mp.weixin.qq.com/s/mGAa4n1-unO0h5j8hN4inA": "每周网安资讯（9.29-10.8）| VMwareESXi远程安全漏洞风险提示",
     "https://mp.weixin.qq.com/s/iBBLypjjRyKBPPeNWRub1g": "OpenSSH 10.6修复多项高危漏洞，可致明文恢复、文件写入与注入",
-    "https://mp.weixin.qq.com/s/SsPescQhjiIWdn0WQHe08w": "自建Jira高危漏洞在野利用"
+    "https://mp.weixin.qq.com/s/SsPescQhjiIWdn0WQHe08w": "自建Jira高危漏洞在野利用",
+    "https://mp.weixin.qq.com/s/dN43midSAeaZtRLO9hWQtg": "【高危漏洞预警】Atlassian Data Center未认证任意文件读取漏洞CVE-2026-21589",
+    "https://mp.weixin.qq.com/s/NsEvJLds12dR901y03bAVg": "红帽 OpenShift 漏洞允许攻击者绕过 PGP 检查并推送恶意版本"
 }
