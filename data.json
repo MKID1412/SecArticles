@@ -23012,5 +23012,6 @@
     "https://mp.weixin.qq.com/s/NaEuykNNL99OvDwK7rfN4w": "【已复现】AnyDesk 预认证堆缓冲区溢出远程代码执行漏洞(CVE-2026-109390)安全风险通告",
     "https://mp.weixin.qq.com/s/xD48Mnzg4pKPxyKmRHw4pQ": "从漏洞分析到网络防护：美国陆军“列克星敦特遣部队”推进AI代理实战化",
     "https://mp.weixin.qq.com/s/rzqymjBJ9rKJM4hEenB2Dg": "9月高危漏洞速览：10个必须修复的安全漏洞（附详解）",
-    "https://mp.weixin.qq.com/s/2Kki1jFFYFXSbrH2Xx2PAA": "【漏洞通告】GitLab正则表达式验证不足导致未授权远程代码执行漏洞（CVE-2026-97229)"
+    "https://mp.weixin.qq.com/s/2Kki1jFFYFXSbrH2Xx2PAA": "【漏洞通告】GitLab正则表达式验证不足导致未授权远程代码执行漏洞（CVE-2026-97229)",
+    "https://mp.weixin.qq.com/s/zzGpGmXSSvHCxpKpEwMHwg": "全网最全POC 可搭建漏洞库"
 }
