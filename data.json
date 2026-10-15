@@ -23085,5 +23085,21 @@
     "https://mp.weixin.qq.com/s/r4rdlhwbnKZVROslK49p-w": "安全预警 | GitLab 正则表达式编译器远程代码执行漏洞（CVE-2026-97229）",
     "https://mp.weixin.qq.com/s/-RKtac9xjoBN6w9e4nRZOQ": "Curl客户端任意代码执行，还是Anthropic最新的OSS Scaner挖的？",
     "https://mp.weixin.qq.com/s/wXPnG7VSVtbGBkJExy_3SA": "一行正则表达式触发 RCE：GitLab CI∕CD 漏洞风险通告",
-    "https://mp.weixin.qq.com/s/HMUyySLGWsDUkhyXznwbDw": "思科警告：ISE 存在严重零日漏洞，已被攻击者利用"
+    "https://mp.weixin.qq.com/s/HMUyySLGWsDUkhyXznwbDw": "思科警告：ISE 存在严重零日漏洞，已被攻击者利用",
+    "https://mp.weixin.qq.com/s/qCXR8lrFtXG3yL7D54qJQw": "F5 修复三个 NGINX 漏洞：可导致内存损坏和远程代码执行",
+    "https://mp.weixin.qq.com/s/YNpIu78SlOmwn4iW6AxJwQ": "XBOW联手GPT-5.6用6天拿下Chrome全链漏洞,Google付了25万美元赏金",
+    "https://mp.weixin.qq.com/s/9pqzTUL8x_TEr8PXRjx_Pw": "从0-1：AI自动化漏洞挖掘实战训练营",
+    "https://mp.weixin.qq.com/s/8eLsLmDxKtM36Djg-pCUbg": "【紧急漏洞预警】GitLab整数溢出导致RCE漏洞(POC已公开)",
+    "https://mp.weixin.qq.com/s/eoDPyclYfp_N0PE9fVQjpg": "SYSTEM 权限之上还有高手？深度拆解 Windows SmartScreen 飞地代码执行漏洞（CVE-2026-83498）",
+    "https://mp.weixin.qq.com/s/DjrNQ_ZOhToxfH4oR6GWgw": "从专有LLM API中窃取推理轨迹：跨会话、跨用户、跨模型的加密推理漏洞解析",
+    "https://mp.weixin.qq.com/s/SID7WpP7JppWHWbZL7qrzA": "【热点安全风险】10月15日｜Ivanti Connect Secure 曝认证绕过漏洞并遭在野利用，攻击者可绕过身份校验执行任意命令（CVE-2026-104935）",
+    "https://mp.weixin.qq.com/s/wfXUrVGUNRjE0yPbzpOR4w": "漏洞复现｜CRMEB image_base64存在SSRF漏洞",
+    "https://mp.weixin.qq.com/s/uqW1LjrI1xr_xt7nMihMaQ": "航运公司和港口卷入大规模网络勒索——n0n一次性点名38家海事企业，共享漏洞疑云笼罩全球供应链",
+    "https://mp.weixin.qq.com/s/1CiSfxVCO5joTdraYNg2mA": "从0-1：AI自动化漏洞挖掘实战训练营",
+    "https://mp.weixin.qq.com/s/V1zHZyN66WIY1Lj155oSOQ": "AI 驱动的自动化代码审计与漏洞挖掘平台",
+    "https://mp.weixin.qq.com/s/nbdaXVu2erBZnR3l3dO37g": "CISA 警告管理员立即修复被利用为零日漏洞的 Ivanti 漏洞",
+    "https://mp.weixin.qq.com/s/VEQGw-IIig2wOx-3I76UPw": "(7.3分) CVE-2026-105133：AhsayCBS备份服务器认证绕过组合RCE",
+    "https://mp.weixin.qq.com/s/mBPRD6zAMdE7E-OaKsYPBQ": "危险！投稿系统存在越权漏洞，竟能随意撤销别人的论文！",
+    "https://mp.weixin.qq.com/s/Q4lfmbuYxgDGRfSlXHHCVQ": "研究人员利用公开的OpenAI模型，在六天内构建了一个价值25万美元的Chrome全链漏洞利用",
+    "https://mp.weixin.qq.com/s/yaBmCoyYEaDt0yw2z-M3pA": "航运公司和港口卷入大规模网络勒索——n0n一次性点名38家海事企业，共享漏洞疑云笼罩全球供应链"
 }
