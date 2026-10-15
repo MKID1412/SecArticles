@@ -23101,5 +23101,20 @@
     "https://mp.weixin.qq.com/s/VEQGw-IIig2wOx-3I76UPw": "(7.3分) CVE-2026-105133：AhsayCBS备份服务器认证绕过组合RCE",
     "https://mp.weixin.qq.com/s/mBPRD6zAMdE7E-OaKsYPBQ": "危险！投稿系统存在越权漏洞，竟能随意撤销别人的论文！",
     "https://mp.weixin.qq.com/s/Q4lfmbuYxgDGRfSlXHHCVQ": "研究人员利用公开的OpenAI模型，在六天内构建了一个价值25万美元的Chrome全链漏洞利用",
-    "https://mp.weixin.qq.com/s/yaBmCoyYEaDt0yw2z-M3pA": "航运公司和港口卷入大规模网络勒索——n0n一次性点名38家海事企业，共享漏洞疑云笼罩全球供应链"
+    "https://mp.weixin.qq.com/s/yaBmCoyYEaDt0yw2z-M3pA": "航运公司和港口卷入大规模网络勒索——n0n一次性点名38家海事企业，共享漏洞疑云笼罩全球供应链",
+    "https://mp.weixin.qq.com/s/f31YdPqlvtSeoFcfU99iXw": "赛博安全狗：GitPython远程辅助组件存在注入漏洞（CVE-2026-110857） (10.15)",
+    "https://mp.weixin.qq.com/s/cVoUeYbTcbTFypI5Zdowng": "GitLab 未授权 RCE（CVE-2026-97229）紧急预警，自建实例请立即升级 19.4.2 ∕ 19.3.5 ∕ 19.2.8 POC",
+    "https://mp.weixin.qq.com/s/0HDWNmL-9UqowHDK00cXcg": "NGINX 爆出 3 个高危漏洞！可远程使服务崩溃，特定条件下可代码执行",
+    "https://mp.weixin.qq.com/s/tc31rSMQ1CR_d4DW3jvVGg": "漏洞报告越积越多，整改究竟堵在补证、验证还是交接",
+    "https://mp.weixin.qq.com/s/b6oZlDc6TT2d-7TcYE_blw": "AI挖洞实战 05 | Workbuddy+Skill技能库，完整复现垂直越权访问漏洞",
+    "https://mp.weixin.qq.com/s/8-Urepp7voEW992Hf-6kQQ": "Linux vhost 漏洞 PoC 公开，虚拟化边界需要重新核对",
+    "https://mp.weixin.qq.com/s/z3tQtAWZjlB8Fam5FkztZw": "OpenCode session 命令执行漏洞(CVE-2026-22812)",
+    "https://mp.weixin.qq.com/s/B3APEhizoOF2zg7qEAI3Rg": "「关键漏洞目录」新增「GitLab CE∕EE整数溢出漏洞(CVE-2026-97229)」等5个漏洞",
+    "https://mp.weixin.qq.com/s/CkkajPHxj83J0-p4LIKbCw": "自动化挖掘驱动漏洞",
+    "https://mp.weixin.qq.com/s/b1SRiK0m9NzC0YF5Mx2Wqg": "10月社区投稿活动 | 漏洞挖掘∕AI渗透∕面试经验∕简历编写",
+    "https://mp.weixin.qq.com/s/8p3thSsmkkPFFs7KZuzN-Q": "Splunk爆出9.8分高危漏洞【PoC已公布】",
+    "https://mp.weixin.qq.com/s/6TaIJHUOfWJa5wmQmhuJLw": "全球具身智能应用创新挑战赛·漏洞挖掘挑战赛决赛晋级名单及优胜奖名单公布",
+    "https://mp.weixin.qq.com/s/ol3DAgd2ptMXGZiWp5-DdQ": "Palo Alto：PAN-OS RCE 漏洞已遭利用",
+    "https://mp.weixin.qq.com/s/sJhnZdzceyhHFQbJo0Ugrw": "一次较为简单的任意用户密码重置漏洞挖掘过程",
+    "https://mp.weixin.qq.com/s/02GL2fVon90Z5ALCWISrcA": "「AI漏洞挖掘+漏洞赏金侦察+7问验证闸门：Agentic Bug Hunter开源拆解」"
 }
