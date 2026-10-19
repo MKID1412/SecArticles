@@ -23227,5 +23227,7 @@
     "https://mp.weixin.qq.com/s/Cz8xnHG8HkoAohrqi7_xQg": "OpenCode披露安全漏洞，OpenAI、Anthropic等API密钥或遭泄露",
     "https://mp.weixin.qq.com/s/N33RBdCU-MErCbcHvMdf_w": "深度解析 NGINX Rift (CVE-2026-42945)：潜伏18年的堆溢出漏洞分析与防御指南",
     "https://mp.weixin.qq.com/s/cRPskaToJa07CfzaDucqdg": "微软在10月份修复了1400+个安全漏洞",
-    "https://mp.weixin.qq.com/s/THzZBUrz6_v7EghdXFiYfg": "比特币早期客户端被成功复现: 从编译器到WinRAR，逐字节还原中本聪的发布流程"
+    "https://mp.weixin.qq.com/s/THzZBUrz6_v7EghdXFiYfg": "比特币早期客户端被成功复现: 从编译器到WinRAR，逐字节还原中本聪的发布流程",
+    "https://mp.weixin.qq.com/s/Hg6fdqTYioILT7ooKP8-BA": "换模型不如换架构：52 组实测之后，AI Agent 挖漏洞真实排名",
+    "https://mp.weixin.qq.com/s/gROVYJlbaUS0XI30QbXPrg": "WordPress 的严重漏洞允许攻击者在无需身份验证的情况下执行远程代码"
 }
