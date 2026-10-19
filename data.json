@@ -23197,5 +23197,21 @@
     "https://mp.weixin.qq.com/s/8FzOuK8iayTwutUsfOHV8w": "同一张券为什么能领两次 抢购背后的并发漏洞攻防演练",
     "https://mp.weixin.qq.com/s/6UVon1hze0AhP4e4M8FySQ": "AI 实战漏洞靶场攻防录",
     "https://mp.weixin.qq.com/s/z8QWNAiuD8FbSj045lm9og": "赛博安全狗：opencode在Windows和WSL上存在远程代码执行漏洞 (10.19)",
-    "https://mp.weixin.qq.com/s/3ia_JoaP3ZJMadou4l5_xA": "【漏洞预警】Next.js爆出RCE漏洞(POC已公开)CVE-2026-96889"
+    "https://mp.weixin.qq.com/s/3ia_JoaP3ZJMadou4l5_xA": "【漏洞预警】Next.js爆出RCE漏洞(POC已公开)CVE-2026-96889",
+    "https://mp.weixin.qq.com/s/7DsDJtkR-MsTskTxw73Fvg": "「关键漏洞目录」新增「ATLASSIAN多款产品任意文件读取漏洞」等3个漏洞",
+    "https://mp.weixin.qq.com/s/Gct8Ex3LGVV6IjF2JWGcQQ": "双击即中招：一个连安全警告都没有的 Windows 漏洞，正遭黑客大规模利用",
+    "https://mp.weixin.qq.com/s/-Urrf3Y1E-TlJJfUBpwkzg": "一个隐藏了至少16年的无线WPS漏洞-WPSplinter,利用博通 WiFi 在 eCos 和 Linux 系统上的漏洞",
+    "https://mp.weixin.qq.com/s/NePWBCW4cZHzBgW83kBCFA": "安徽省网络攻防赛AWD-志愿者服务系统赛后复现",
+    "https://mp.weixin.qq.com/s/J4PFKk0n_tWx3OIAjxUw-g": "【安全速报】10月19日高危漏洞紧急预警",
+    "https://mp.weixin.qq.com/s/slQOHelPKaE2JgeI68iBYQ": "Anthropic Mythos检出大量漏洞，美国银行增聘千名外包人员开展修复；AI生成漏洞报告泛滥，Intel、Google相继调整漏洞赏金计划 |牛览",
+    "https://mp.weixin.qq.com/s/lmqtU1YAOLXIQp8h3EGqLg": "【已复现】Windows Shell 高危漏洞，已遭在野利用",
+    "https://mp.weixin.qq.com/s/p3LAcqYZWyV0lfZOVfvrUA": "CNVD漏洞周报2026年第41期",
+    "https://mp.weixin.qq.com/s/3NFIU6oC5Bg9VMS6o6cKNA": "畅捷通T+ GLSyncService.asmx 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/5NF5fmaSO-QbrdRCw9HBMA": "雷神众测漏洞周报2026.10.12-2026.10.18",
+    "https://mp.weixin.qq.com/s/w1MXYP4ey4SmV3hgHSV-mw": "【已复现】Windows Shell 安全功能绕过漏洞(CVE-2026-96951)安全风险通告",
+    "https://mp.weixin.qq.com/s/9T6PNirjWGjuzkD6ndjQfQ": "关于双十一期间暂停授权测试及漏洞收录的通知",
+    "https://mp.weixin.qq.com/s/I4J8SNhI1Usehz03_nI8Fw": "AI挖洞实战 07 | Workbuddy+Skill技能库，完整复现SSRF漏洞",
+    "https://mp.weixin.qq.com/s/hhhgEexGuByA4nyoVcBoVQ": "【已复现】PwnEscape：Linux 内核 IPv4 校验和缺陷可致虚拟机逃逸（CVE-2026-99999）",
+    "https://mp.weixin.qq.com/s/XCGpp0W57Ry259b3AaP6CQ": "上周关注度较高的产品安全漏洞(20261012-20261018)",
+    "https://mp.weixin.qq.com/s/Px6mrQBBVbzVzbWqZqghkA": "【漏洞通告】MariaDB表名编码绕过漏洞（CVE-2026-92262)"
 }
