@@ -23249,5 +23249,20 @@
     "https://mp.weixin.qq.com/s/g5tBEtcTcxzhfznq83MzOg": "CNVD漏洞周报2026年第41期",
     "https://mp.weixin.qq.com/s/3Dm1oks7B8NV9WawzgDcCA": "【B站公开课】神农SRC 漏洞挖掘实战课：从 0 到 1 成为赏金猎人",
     "https://mp.weixin.qq.com/s/Kt26vu4cDKuRnlG9N-qkhg": "漏洞预警 | Windows Shell安全功能绕过漏洞",
-    "https://mp.weixin.qq.com/s/UwMfOzQz5oskM3Nns3TEpg": "Plex2Shell攻击链揭秘：从零权限到代码执行"
+    "https://mp.weixin.qq.com/s/UwMfOzQz5oskM3Nns3TEpg": "Plex2Shell攻击链揭秘：从零权限到代码执行",
+    "https://mp.weixin.qq.com/s/72CCdOgrNAZ8NQcv201IWw": "10月社区投稿活动 | 漏洞挖掘∕AI渗透∕面试经验∕简历编写",
+    "https://mp.weixin.qq.com/s/BHpeTLmhaUX4kjuh8NICoQ": "【漏洞预警】linux内核漏洞(POC已公开)已有 Android∕ARM64 的利用实现CVE-2026-98260",
+    "https://mp.weixin.qq.com/s/sL0JE9_97TNpAlAueSsAoA": "公司修漏洞时又被攻击，30万台设备被控案还留下什么",
+    "https://mp.weixin.qq.com/s/NyvavsVJ_-BWad-cSF6gUA": "F5 紧急修复多个 NGINX 高危漏洞",
+    "https://mp.weixin.qq.com/s/XP6JzjoQl76kQub5H5pXFw": "CVE-2026-104935固件分析(附exp)",
+    "https://mp.weixin.qq.com/s/d89_bsvskL65NshHTaV_Tg": "连密码都不用！博通WiFi曝0day隔空秒拿ROOT",
+    "https://mp.weixin.qq.com/s/GTwDGgf1XiYKqoJkQuVOMQ": "企业内网资产与漏洞的终极克星",
+    "https://mp.weixin.qq.com/s/1ACjf2mQZdz8DhNnMdoTOg": "【漏洞通告】Windows Shell 安全功能绕过漏洞（CVE-2026-96951)",
+    "https://mp.weixin.qq.com/s/2nUxboAKTyHyr5WJYKvlrA": "Debian DSA-6528-1（内核）上百个漏洞",
+    "https://mp.weixin.qq.com/s/zhMAOnQjsYHKtU502VMdqQ": "Progress 修复12个MOVEit Transfer 高危漏洞",
+    "https://mp.weixin.qq.com/s/m8hns8OG0kIbJiAarDFrxg": "AI挖洞实战 08 | Workbuddy+Skill技能库，文件上传漏洞",
+    "https://mp.weixin.qq.com/s/nOYyg5m11Sw140PTGnhEMA": "Drupal 网站可能被 “免登录接管”：这类 RCE 漏洞为什么要马上排查",
+    "https://mp.weixin.qq.com/s/NbTLRUB3HJ4bCclw3b_zbA": "某盘图书管理系统审计(0dayRCE绕WAF)",
+    "https://mp.weixin.qq.com/s/a7Qch0B5HyuG-6p5ZKmRMg": "CVE靓号—9.3高分漏洞CVE-2026-99999分析",
+    "https://mp.weixin.qq.com/s/HO65vIMMJFgKuLLBzR6GeA": "月下载9000万次的AI网关LiteLLM曝双漏洞：低权限账号就能偷走你所有API密钥"
 }
