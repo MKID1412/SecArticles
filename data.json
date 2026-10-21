@@ -23281,5 +23281,16 @@
     "https://mp.weixin.qq.com/s/Y69yt3UTgPoJ9IuodBgtLQ": "未认证 RCE：piflow AI Agent 一条消息拿下服务器（CVSS 9.8）",
     "https://mp.weixin.qq.com/s/dGk0dTXwuk7hwLpUqcMR4A": "一个漏掉的过滤，一个空掉的名单： 用友 GRP-U8 的两条零权限 RCE",
     "https://mp.weixin.qq.com/s/krz-kzNwUWcihExuaYo5mQ": "漏洞预警|知名媒体服务器Plex Media Server曝未授权访问的远程命令执行漏洞plex2shell cvss 9.8",
-    "https://mp.weixin.qq.com/s/-U6_L1S5mE2NgGdcyVnMmw": "【高危漏洞预警】Drupal Field UI远程代码执行漏洞(CVE-2026-108097)"
+    "https://mp.weixin.qq.com/s/-U6_L1S5mE2NgGdcyVnMmw": "【高危漏洞预警】Drupal Field UI远程代码执行漏洞(CVE-2026-108097)",
+    "https://mp.weixin.qq.com/s/QV6bttCK-7kiTsK_4L8I-g": "Plex媒体服务器未授权RCE链被在野利用,CISA已列入KEV",
+    "https://mp.weixin.qq.com/s/xRGP9xPW0nza0imp_T6dcg": "Qubic官方钱包弱Seed漏洞，苹果客户端1,404钱包批量被盗事件分析",
+    "https://mp.weixin.qq.com/s/eqYLd2-oEO_IZxgKN-zKGQ": "【热点安全风险】10月21日｜Juniper 一次修复 106 个漏洞，106 个问题中有 100 个无需任何凭据即可触发未认证接管设备管理界面",
+    "https://mp.weixin.qq.com/s/NVO5_THo6QWJ_9vzuAF8Gg": "漏洞预警 | SiteGuard WAF命令注入漏洞",
+    "https://mp.weixin.qq.com/s/ippokomWU7BOG4efErNvag": "急！急！急！Typecho 1.3漏洞复现与修复",
+    "https://mp.weixin.qq.com/s/f0VQAA086GpQQT6s9eRqtw": "速修 | Plex 4 洞串联未授权 RCE CVE-2026-96652",
+    "https://mp.weixin.qq.com/s/L8pfrEXn42sj6R3KwA7MIQ": "漏洞预警 | Magento Open Source模板引擎注入漏洞",
+    "https://mp.weixin.qq.com/s/MgQcJJNCKPlxvhAli7p9OA": "漏洞通告|畅捷通信息技术股份有限公司畅捷通T+存在命令执行漏洞(CNVD-2026-36378)",
+    "https://mp.weixin.qq.com/s/ScyVjZFy8rP5lxUvWSHt0Q": "赛博安全狗：H3C Magic NX15 RPC接口存在代码注入漏洞CVE-2026-112371 (10.20)",
+    "https://mp.weixin.qq.com/s/06z0Gwa6cXICB-5MhUyz0Q": "EvilWAF：传输层绕过 WAF，透明代理加深度漏洞扫描",
+    "https://mp.weixin.qq.com/s/utfrj4RH_BjHvbM20H-8NA": "【已复现】ARTEX存在未认证接管导致RCE漏洞"
 }
