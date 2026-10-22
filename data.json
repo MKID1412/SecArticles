@@ -23526,5 +23526,7 @@
     "https://mp.weixin.qq.com/s/4BKn-25si4tUQVT9b4kUVg": "【已复现 RCE】PHP2Shell：PHP 核心内存破坏致未认证远程代码执行（CVE-2026-109618 ∕ CVE-2026-109619）",
     "https://mp.weixin.qq.com/s/SCsMXkzpzEHNJK56VqTHAQ": "“PHP2Shell”敲响企业漏洞警钟，奇安信天戟提供一键速查方案",
     "https://mp.weixin.qq.com/s/MOYRtuVKSXpC4V_OKs7F2A": "GitLab修复12年历史严重漏洞，可致自托管服务器未授权代码执行",
-    "https://mp.weixin.qq.com/s/NZ-Lzm3XkWwwooUg2ZPwsA": "关于 “史诗级漏洞”PHP2Shell 你应该了解的事实"
+    "https://mp.weixin.qq.com/s/NZ-Lzm3XkWwwooUg2ZPwsA": "关于 “史诗级漏洞”PHP2Shell 你应该了解的事实",
+    "https://mp.weixin.qq.com/s/T9WNT1BMJNBoGRcS6kjOUA": "【漏洞复现】PHP Core 远程代码执行漏洞（CVE-2026-109618∕109619）",
+    "https://mp.weixin.qq.com/s/0gdB5mXksCDILkyiEiO6IQ": "PHP2Shell：两个高危漏洞拉响全球安全“警报”"
 }
