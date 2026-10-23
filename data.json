@@ -23546,5 +23546,22 @@
     "https://mp.weixin.qq.com/s/53rFwboLyVYqMEKz7XI5Tw": "打印机默认密码靠序列号算：Brother 三条漏洞拼出未认证 RCE",
     "https://mp.weixin.qq.com/s/HNLngUXi0t0HxvdJ6fIpfQ": "漏洞预警 | WordPress plugin Booktics SQL注入漏洞",
     "https://mp.weixin.qq.com/s/IZPDw6xt708N2ad69kj1sg": "关于PHP远程代码执行漏洞分析及修复建议的安全公告",
-    "https://mp.weixin.qq.com/s/tzOWDnKpL2pKjcTh1ja4UA": "AI加速网络漏洞挖掘与攻击利用，全球网络安全防护面临新挑战"
+    "https://mp.weixin.qq.com/s/tzOWDnKpL2pKjcTh1ja4UA": "AI加速网络漏洞挖掘与攻击利用，全球网络安全防护面临新挑战",
+    "https://mp.weixin.qq.com/s/t4q0lGMqk_1sa3bsMWdqgQ": "动态｜CNVD预警：PHP 核心层高危漏洞，WordPress、Laravel 等主流框架全线告急",
+    "https://mp.weixin.qq.com/s/1vBfNc71-MH-Ko3OXW4o-w": "热点漏洞爆发，如何快速完成风险验证？VulnHunter实现漏洞复现与业务风险闭环",
+    "https://mp.weixin.qq.com/s/HSl6IfVXS2zwYKFQt71Hrg": "人脸识别类漏洞测试与绕过方式",
+    "https://mp.weixin.qq.com/s/GSD8LlG8L1r3tSb-ig30JA": "CVSS 10.0 满分、12 年全中招： GitLab 这波漏洞 把「自托管」盲区照得透亮",
+    "https://mp.weixin.qq.com/s/XLEDkyfrjs8HOmTQoX5PKg": "能信安：安全漏洞通报",
+    "https://mp.weixin.qq.com/s/x5lCQjD9ObzLu9DRgk_0mg": "热点漏洞爆发，如何快速完成风险验证？VulnHunter实现漏洞复现与业务风险闭环",
+    "https://mp.weixin.qq.com/s/s3v0pl8aGlzWasCLql95SQ": "PHP核弹级漏洞，是哪家AI挖出来的？日本首相高市早苗都被惊动",
+    "https://mp.weixin.qq.com/s/YN7kFVwOVOcFq6-3BU_ykw": "【成功复现】PHP远程代码执行漏洞(CVE-2026-109618∕CVE-2026-109619)",
+    "https://mp.weixin.qq.com/s/KknGvNS7Pu6JMqggHPaF2w": "漏洞预警|Java也出高危漏洞了CVE-2026-91403 还让不让人活了，又是eMudhra证书问题引起的",
+    "https://mp.weixin.qq.com/s/CWLKdr4MErvyFnog9zZETA": "一把梭！把端口扫描、指纹识别、漏洞验证、密码爆破、请求走私全焊进一个 Go 二进制，这扫描器猛到能把整个资产清单犁一遍",
+    "https://mp.weixin.qq.com/s/xLFvfX_y59Hh3CGP6EZa-w": "PHP 紧急发布安全更新：两个严重 RCE 漏洞如何应对",
+    "https://mp.weixin.qq.com/s/j8qG6N9Xwx06YLoZJLIb-Q": "请求还没开始，代码已经跑完了-php2shell-复现笔记",
+    "https://mp.weixin.qq.com/s/ejdRb1TZ7db0WPv2slCyfg": "赛博安全狗：CVE-2026-97785：AAD App Proxy身份验证不当漏洞，严重程度10.0 (10.23)",
+    "https://mp.weixin.qq.com/s/sCPJcDq5VFfvX3vOIxbkWA": "【漏洞复现】CVE-2026-109618 ∕ 109619（php2shell） 复现与边界分析：触发面很宽，武器面很窄",
+    "https://mp.weixin.qq.com/s/QWPfx2MZJiapODTihhckPw": "信息安全漏洞周报【第096期】",
+    "https://mp.weixin.qq.com/s/tipi6YIIlWddHCFcHjQeAA": "PHP 高危漏洞，雷池率先发布应对规则",
+    "https://mp.weixin.qq.com/s/Etlh9brhPPiBeg21RBHYiQ": "漏洞频发是常态，别再追着补丁跑了"
 }
