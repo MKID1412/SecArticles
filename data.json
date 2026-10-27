@@ -23669,5 +23669,15 @@
     "https://mp.weixin.qq.com/s/R-8iyvLV30cylod5e0h7uw": "Tailscale SSH 漏洞可导致提权至 root",
     "https://mp.weixin.qq.com/s/YvqIWnIoc9GZFgzp56V2yA": "资产侦察与漏洞管理平台 -- 4zreark（10月26日更新）",
     "https://mp.weixin.qq.com/s/61fk3nlNNVmrhE7ezJWFlg": "每日漏洞推送 zip-rs ≤ 9.0.4 双头部脱同步（Zip Cloaking）→ 扫描器放行、解压器落盘任意文件",
-    "https://mp.weixin.qq.com/s/visLwiY2uhFpn8MfRprjeQ": "研究员凭PHP2Shell漏洞赢得比特币挑战赛，获两千美元奖金并发布PoC"
+    "https://mp.weixin.qq.com/s/visLwiY2uhFpn8MfRprjeQ": "研究员凭PHP2Shell漏洞赢得比特币挑战赛，获两千美元奖金并发布PoC",
+    "https://mp.weixin.qq.com/s/yp3Z3Yr10MRblL56y3U2Fg": "首次！PHP2Shell漏洞已被成功利用，实现远程命令执行",
+    "https://mp.weixin.qq.com/s/RZQZP6j_G6Wnl35lb_e1rg": "【已复现】漏洞通告 | Node.js Brotli 解码器远程代码执行漏洞(CVE-2026-111497)",
+    "https://mp.weixin.qq.com/s/uGtDjkoZn38jAAdOUOauig": "从csrf到文件上传从命令执行到powershell反弹shell，htb靶机练习之secnotes",
+    "https://mp.weixin.qq.com/s/EyoynmSCywN3tJkOB4TCfw": "PHP重大漏洞引发全球关注：AI时代，网络安全防线如何升级？",
+    "https://mp.weixin.qq.com/s/ilC8hPHKpX2Hb-iq2oakgw": "360漏洞云亮相看雪峰会｜人机共智·重构安全",
+    "https://mp.weixin.qq.com/s/Tc8_PJ8r9O0w69wuydF3tg": "宇树 Go2机器狗 未授权命令注入漏洞",
+    "https://mp.weixin.qq.com/s/5vavG-wf7jX3oTL-xzbfvg": "多 Agent Harness 如何把漏洞告警变成可复核证据",
+    "https://mp.weixin.qq.com/s/cmA5I-WjNZnpdNeoNo8D6w": "【已复现】Linux Kernel POSIX CPU timer 释放后重用漏洞(CVE-2026-98260)安全风险通告",
+    "https://mp.weixin.qq.com/s/LnMzZYU9Qi1y31467GX9bg": "【勒索预警】用友 BIP 高级版疑似0day已被rox勒索病毒利用（附IOC）",
+    "https://mp.weixin.qq.com/s/M-OXS-xU0iXYeJJdaaWBVw": "大蚂蚁即时通信系统 loginByToken 身份认证绕过漏洞"
 }
