@@ -23701,5 +23701,13 @@
     "https://mp.weixin.qq.com/s/7-cow4Gfb3CFXZsF1SS-pQ": "Node.js Brotli 解码器越界写入漏洞（Node2Shell CVE-2026-111497） 通告",
     "https://mp.weixin.qq.com/s/NfL2BFR6qgmFE9Z3jBQfSA": "Linux 中被发现Zero-click远程代码执行漏洞，来看看Claude最近发现和利用的真实软件中的漏洞，关键是用的是未发布的内部模型",
     "https://mp.weixin.qq.com/s/caROKKoNN5jVWpqXLA2vbA": "每日安全预警 ｜ MySQL 等 数据库漏洞风险通报（2026-10-28）",
-    "https://mp.weixin.qq.com/s/84YDGedBfM-L6q9vLS6oYw": "Strix AI 自动化渗透测试工具实战：安装部署、配置与漏洞挖掘教程"
+    "https://mp.weixin.qq.com/s/84YDGedBfM-L6q9vLS6oYw": "Strix AI 自动化渗透测试工具实战：安装部署、配置与漏洞挖掘教程",
+    "https://mp.weixin.qq.com/s/PBoZgu5yNc6b6I6Gj2p--g": "Brotli 漏洞暴露严重，HTTP2Shell 漏洞触发紧急补丁",
+    "https://mp.weixin.qq.com/s/WkTEWGZyMnhCgXOG1Wcreg": "网站漏洞源码合集 可做漏洞训练平台",
+    "https://mp.weixin.qq.com/s/z2sHF0nQibk4sOa0u2Xlmw": "Ruoyi框架漏洞复现总结",
+    "https://mp.weixin.qq.com/s/vyo8RDvPWbQVYgZlGH9QoQ": "【高危漏洞预警】CVE-2026-98260 Linux内核POSIX CPU Timer释放后重用（Use-After-Free）",
+    "https://mp.weixin.qq.com/s/vL4E2vORVjmu67KzArRbnw": "JavaSecLab：别再搭那些“一键弹窗”的靶场了，这个平台逼你从源码里理解漏洞",
+    "https://mp.weixin.qq.com/s/p6_m4D6M3FQTWzHvfGDPew": "天积安全靶场攻略｜业务逻辑漏洞-暴力破解之前端加密篇",
+    "https://mp.weixin.qq.com/s/nAPGoVFpZr-qEj66iwGCUA": "【高危漏洞预警】Apache Tomcat FORM认证授权绕过高危漏洞CVE-2026-6852",
+    "https://mp.weixin.qq.com/s/RJnEaBv0e9DvpUMMGN12qg": "记一次学员ai挖洞不知道原理经过深度分析之挖掘通杀0day过程"
 }
