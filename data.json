@@ -23700,5 +23700,6 @@
     "https://mp.weixin.qq.com/s/KEfYJGsCTX8vZ1727eftZA": "【漏洞预警】PHP 底层高危远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/7-cow4Gfb3CFXZsF1SS-pQ": "Node.js Brotli 解码器越界写入漏洞（Node2Shell CVE-2026-111497） 通告",
     "https://mp.weixin.qq.com/s/NfL2BFR6qgmFE9Z3jBQfSA": "Linux 中被发现Zero-click远程代码执行漏洞，来看看Claude最近发现和利用的真实软件中的漏洞，关键是用的是未发布的内部模型",
-    "https://mp.weixin.qq.com/s/caROKKoNN5jVWpqXLA2vbA": "每日安全预警 ｜ MySQL 等 数据库漏洞风险通报（2026-10-28）"
+    "https://mp.weixin.qq.com/s/caROKKoNN5jVWpqXLA2vbA": "每日安全预警 ｜ MySQL 等 数据库漏洞风险通报（2026-10-28）",
+    "https://mp.weixin.qq.com/s/84YDGedBfM-L6q9vLS6oYw": "Strix AI 自动化渗透测试工具实战：安装部署、配置与漏洞挖掘教程"
 }
