@@ -23749,5 +23749,12 @@
     "https://mp.weixin.qq.com/s/TdrSMPmOg07B9K8WbDxXmA": "AI挖洞实战 11 | Workbuddy+Skill技能库，SQL注入漏洞",
     "https://mp.weixin.qq.com/s/gnYo_gy8sa1SF1ujwwnKSQ": "美国国土安全部人员数据遭窃取，CBP 与 ICE 大量特工信息泄露；CNNVD周报：新增3806个安全漏洞，PHP高危漏洞可导致远程代码执行| 牛览",
     "https://mp.weixin.qq.com/s/i5RQ9k8ydDX1l86scgsynQ": "「关键漏洞目录」新增「Linux kernel权限提升漏洞(Fragnesia)」等2个漏洞",
-    "https://mp.weixin.qq.com/s/witrB9v5JwgGSmII_rXegg": "漏洞复现｜TheGrid admin-ajax存在代码执行漏洞(CVE-2026-94169)"
+    "https://mp.weixin.qq.com/s/witrB9v5JwgGSmII_rXegg": "漏洞复现｜TheGrid admin-ajax存在代码执行漏洞(CVE-2026-94169)",
+    "https://mp.weixin.qq.com/s/RFCWCTXUAS_WumJTMD3J0g": "企业防御 PHP2Shell：存量 PHP 漏洞排查、检测运营与内网纵深防护架构",
+    "https://mp.weixin.qq.com/s/riz8MOCO6FSZW1i9QC0k-Q": "C3RB3R勒索软件利用DSM漏洞CVE-2026-13639和CVE-2026-13684攻击群晖NAS设备",
+    "https://mp.weixin.qq.com/s/dR-EELAnKe8oRslEQeBOmQ": "ShinyHunters利用的PeopleSoft 0Day，实为三漏洞链式攻击",
+    "https://mp.weixin.qq.com/s/2Vw9iS3d5Paxj669t_Yekg": "单模型“全能”是统计幻觉：Mythos标记6202个漏洞只修了75个，而MDASH用100个Agent做到了单模型做不到的事",
+    "https://mp.weixin.qq.com/s/RPxsalZeEJENruWEJ82QQQ": "【$175,000】人类技艺巅峰之作：纯逻辑漏洞构筑的Edge全链条攻击深度解析！",
+    "https://mp.weixin.qq.com/s/UqwwwU4AnMH0psHx902Z9Q": "【高危漏洞预警】GitLab未认证远程代码执行漏洞CVE-2026-110264",
+    "https://mp.weixin.qq.com/s/mK6lWQY2LlKRp_oDT2gYuA": "供应链高危0Day漏洞预警 | 灵脉CodeAI发现Jenkins远程代码执行漏洞（CVE-2026-117612）"
 }
