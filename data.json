@@ -23809,5 +23809,6 @@
     "https://mp.weixin.qq.com/s/j1VHzzjVX7e2EN9kxY4X-Q": "文件上传漏洞的真相：你上传成功的那一刻，真正的攻防才刚刚开始",
     "https://mp.weixin.qq.com/s/PiTtDHLn-7eZCvHTg2sLHg": "破防！PHP2Shell 漏洞首现实战利用，无认证 RCE 拿下服务器权限",
     "https://mp.weixin.qq.com/s/j4Gv6kaTN27yRdWJHAnnKg": "漏洞预警｜Linux内核 TCP IP选项远程代码执行漏洞（CVE-2026-98432）",
-    "https://mp.weixin.qq.com/s/iyXL-Rwj1TflE8BmlajPWg": "赏金猎人实战：喂一段压缩数据，官方 Node.js 就被打成 RCE"
+    "https://mp.weixin.qq.com/s/iyXL-Rwj1TflE8BmlajPWg": "赏金猎人实战：喂一段压缩数据，官方 Node.js 就被打成 RCE",
+    "https://mp.weixin.qq.com/s/aDOF8Tx1KqWdm6f2nqdKLA": "Linux内核TCP漏洞，CVSS评分9.8，影响Ubuntu、Red Hat及其他发行版"
 }
