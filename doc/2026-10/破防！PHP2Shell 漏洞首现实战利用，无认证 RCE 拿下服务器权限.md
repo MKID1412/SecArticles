@@ -1,6 +1,5 @@
 #  破防！PHP2Shell 漏洞首现实战利用，无认证 RCE 拿下服务器权限  
-原创 onepandasec
-                    onepandasec  OnePanda-Sec   2026-10-30 06:25  
+ 星盟安全团队   2026-10-30 13:21  
   
 ![](https://mmbiz.qpic.cn/mmbiz_png/Cs6H03FTrIOBUibK3o96dcuiaRD01IXW3mx4ULXqzzZBhM0TApiam5O7egYm5Whib1HxxFp8xryngZJ56VoXTCenndicjgkkS6kn7HicydRoBRQ74/640?wx_fmt=png "")  
   
