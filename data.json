@@ -23756,5 +23756,19 @@
     "https://mp.weixin.qq.com/s/2Vw9iS3d5Paxj669t_Yekg": "单模型“全能”是统计幻觉：Mythos标记6202个漏洞只修了75个，而MDASH用100个Agent做到了单模型做不到的事",
     "https://mp.weixin.qq.com/s/RPxsalZeEJENruWEJ82QQQ": "【$175,000】人类技艺巅峰之作：纯逻辑漏洞构筑的Edge全链条攻击深度解析！",
     "https://mp.weixin.qq.com/s/UqwwwU4AnMH0psHx902Z9Q": "【高危漏洞预警】GitLab未认证远程代码执行漏洞CVE-2026-110264",
-    "https://mp.weixin.qq.com/s/mK6lWQY2LlKRp_oDT2gYuA": "供应链高危0Day漏洞预警 | 灵脉CodeAI发现Jenkins远程代码执行漏洞（CVE-2026-117612）"
+    "https://mp.weixin.qq.com/s/mK6lWQY2LlKRp_oDT2gYuA": "供应链高危0Day漏洞预警 | 灵脉CodeAI发现Jenkins远程代码执行漏洞（CVE-2026-117612）",
+    "https://mp.weixin.qq.com/s/yChCI1subUgHlD4kCSrzLQ": "接个电话就被黑？Telegram安卓漏洞潜伏四年，一通来电即可远程执行代码",
+    "https://mp.weixin.qq.com/s/ehGNXiXd0T32uD0ecdJU5Q": "接个电话就被黑？Telegram安卓漏洞潜伏四年，一通来电即可远程执行代码",
+    "https://mp.weixin.qq.com/s/zWa_TmKsZtqZ8TXKVRImSA": "TeamViewer CVE-2026-111585 深度分析",
+    "https://mp.weixin.qq.com/s/MxMn0y33ivAw3BPG9NycPg": "邮箱预占与双向锁定漏洞",
+    "https://mp.weixin.qq.com/s/UFD16cOeojtIt88NqiJEww": "【热点安全风险】10月30日｜Linux 内核缺陷可与 PHP 漏洞串联，攻击者植入网页后门后以 root 执行命令（CVE-2026-46300）",
+    "https://mp.weixin.qq.com/s/rwMszD18QiQMEghUpvn5kg": "纯逻辑漏洞攻破Edge沙箱：Orange Tsai披露Pwn2Own 17.5万美元漏洞链",
+    "https://mp.weixin.qq.com/s/A-9bDOWBpQpZNq99GUqclA": "HPE Aruba AOS-8 存在严重漏洞，黑客可绕过 SSH 身份验证并接管系统",
+    "https://mp.weixin.qq.com/s/i6pWEuUTU2p9Ok-5kV92QQ": "深度丨力控科技Force-STEM模型优化控制系统在智慧水务中的应用",
+    "https://mp.weixin.qq.com/s/DCyVPGcNjzrEkweQiSEfxQ": "UEFI 严重漏洞潜伏16年，可绕过 Secure Boot 在网络启动服务器上执行代码",
+    "https://mp.weixin.qq.com/s/h3yrHqU8uj4GZmJFjx0Z6g": "Composer 2.11.0 和 2.2.31 修复路径遍历和令牌泄露漏洞",
+    "https://mp.weixin.qq.com/s/TsCi33dyplP20-1VLmzxug": "漏洞预警 | Flowise服务器端请求伪造漏洞",
+    "https://mp.weixin.qq.com/s/-KKDVlr6tqupX8b0PpND6g": "漏洞预警 | Cisco FMC反序列化漏洞",
+    "https://mp.weixin.qq.com/s/T2u0eJe52UVsljakJyWFLQ": "关于致远互联协同管理平台COP-A9存在未授权源码组件下载漏洞的漏洞预警",
+    "https://mp.weixin.qq.com/s/JvVCYpUnL_brTDHB-f3YTg": "思科提醒注意已遭在野利用的 ASA 高危漏洞"
 }
