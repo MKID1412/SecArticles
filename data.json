@@ -23828,5 +23828,6 @@
     "https://mp.weixin.qq.com/s/WVXiSGEN1XNf133tkcS0SQ": "PHP2Shell 已被用于攻击 PAN-OS 管理接口：从 PHP RCE 到防火墙 Root",
     "https://mp.weixin.qq.com/s/whxU3U2P_DcHJR2-bnW3Hg": "PHP代码审计-PHPCMS 前台RCE漏洞",
     "https://mp.weixin.qq.com/s/dlSnxUSXz0pskDKuW0VpFQ": "TeamViewer 严重漏洞：恶意主机可借远程支持会话反向控制技术人员电脑",
-    "https://mp.weixin.qq.com/s/DvMfj3w-wGUIlUW-GZjO7w": "CVE-2026-110264：GitLab Onigmo 正则引擎整数溢出未授权 RCE 漏洞分析"
+    "https://mp.weixin.qq.com/s/DvMfj3w-wGUIlUW-GZjO7w": "CVE-2026-110264：GitLab Onigmo 正则引擎整数溢出未授权 RCE 漏洞分析",
+    "https://mp.weixin.qq.com/s/LCY4XnitU6sgNaBiWjQ42A": "同一个模型，Shannon找到6个漏洞，Strix只找到1个——你追的“最强模型”可能根本不是瓶颈"
 }
