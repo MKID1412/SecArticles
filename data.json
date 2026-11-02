@@ -23902,5 +23902,8 @@
     "https://mp.weixin.qq.com/s/ZMlGkGF6QLDxRTAEf3b-wg": "【安全圈】AuthMask高危漏洞曝光：恶意App冒充Teams窃取M365令牌",
     "https://mp.weixin.qq.com/s/2U1NWERYDIOfX6JWCOiXHw": "每周网安资讯（10.28-11.2）| ApacheKylin远程命令执行漏洞",
     "https://mp.weixin.qq.com/s/CPFM_vhpeUrCWs03ZD0FIA": "一个压缩库漏洞，为什么让多种云服务同时紧急修复？",
-    "https://mp.weixin.qq.com/s/F8ZDpcMTqqqHP5pyLPYXyA": "Android现死亡短信高危漏洞，隐形zero-click短信可阻断急救通话"
+    "https://mp.weixin.qq.com/s/F8ZDpcMTqqqHP5pyLPYXyA": "Android现死亡短信高危漏洞，隐形zero-click短信可阻断急救通话",
+    "https://mp.weixin.qq.com/s/oxrWRkTpOO6tZimTUm9l7w": "CVE-2026-98432 深度分析：Linux 内核 IPv4 TCP 竞态 Use-After-Free 漏洞全景解析",
+    "https://mp.weixin.qq.com/s/TAdH62XGhi0AvY2buDcJtw": "ArgusAI自主 SRC 挖洞Agent 多智能体协同代理抓包 + 浏览器自动化请求重放，提升高危漏洞产出效率",
+    "https://mp.weixin.qq.com/s/Z3wDbIy-nBlAYJe5Z3cdWw": "金蝶EAS WSExportPersonFacade接口存在敏感信息泄露  附POC"
 }
