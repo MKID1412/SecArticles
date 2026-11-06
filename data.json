@@ -24033,5 +24033,9 @@
     "https://mp.weixin.qq.com/s/P-cVyO7RLdsIgkQigCKWTw": "用友时空KSOA save_folder.jsp SQL注入漏洞",
     "https://mp.weixin.qq.com/s/L8IxtKV0XKQq8eBpQWwFSQ": "能信安：安全漏洞通报",
     "https://mp.weixin.qq.com/s/3_2RT7shjk8IC3vbZMkAnw": "ARTEX-FULL 衍生加强版｜多 Agent 自主渗透系统、新增 MCP 工具链、多 Worker 协同探索、漏洞复测自动化闭环",
-    "https://mp.weixin.qq.com/s/5qqE9dcelCw99BhpkGDUYw": "【总结】EDUSRC漏洞挖掘常见思路分享！"
+    "https://mp.weixin.qq.com/s/5qqE9dcelCw99BhpkGDUYw": "【总结】EDUSRC漏洞挖掘常见思路分享！",
+    "https://mp.weixin.qq.com/s/GCySpOvyQ7hrG3HVQ6soTA": "一万四千条 Nuclei 漏洞模板全塞进一个仓库：全网 POC 实时监控，扫描速度快到离谱",
+    "https://mp.weixin.qq.com/s/fWPXNmRmLHzn3I4gOjhRpA": "【漏洞通告】OpenSSH musl 密码认证绕过漏洞",
+    "https://mp.weixin.qq.com/s/fgFiBiMf3-wrCYBcNWxCLw": "速查！SSH认证绕过漏洞，无需密码直接ssh登录服务器",
+    "https://mp.weixin.qq.com/s/sUMLECu2KJ1e60em5ZBbbg": "CVE-2026-123158 · OpenSSH∕musl 密码认证绕过"
 }
