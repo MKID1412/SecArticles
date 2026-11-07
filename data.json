@@ -24069,5 +24069,13 @@
     "https://mp.weixin.qq.com/s/FgICo59za9Fk6h3LYkjsFg": "Zyxel GS1900 在野利用漏洞分析：一个零日漏洞的完整攻防拆解",
     "https://mp.weixin.qq.com/s/8yp_bSwoKBoDTgh9StZVlA": "微软披露Windows画图严重漏洞，无需用户Click即可远程执行代码",
     "https://mp.weixin.qq.com/s/DzJv_CUUqz9BKGlrYabTHQ": "CVE-2026-39430：HP Poly 摄像头的管理员登录“名存实亡”，未认证就能导出全设备凭据",
-    "https://mp.weixin.qq.com/s/2UwkPks-pm1L9Z8rqLNukw": "OpenSSH 十年漏洞曝光：一个超长密码，竟能绕过 Linux SSH 身份认证"
+    "https://mp.weixin.qq.com/s/2UwkPks-pm1L9Z8rqLNukw": "OpenSSH 十年漏洞曝光：一个超长密码，竟能绕过 Linux SSH 身份认证",
+    "https://mp.weixin.qq.com/s/v63HFMNS4Mkk25BLyixshQ": "海外SRC漏洞挖掘：\\绕过403 + 接口不校验token字段签发JWT",
+    "https://mp.weixin.qq.com/s/UI3OYyjFUUZkteAAO6TKrg": "可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战",
+    "https://mp.weixin.qq.com/s/nO6OFJ430zdQFTmzLmwQdw": "Veeam备份与复制系统存在严重漏洞，允许未经身份验证的攻击者绕过授权",
+    "https://mp.weixin.qq.com/s/5ROf3BX_I1sOoKqiq3nr3g": "【安全圈】MFA 被绕过：SonicWall SSL-VPN 漏洞已在野利用",
+    "https://mp.weixin.qq.com/s/RFPFZVHPqTWC9vA_1QG4ww": "给大模型装上固件审计员的骨架：一个 IoT 固件漏洞挖掘 Skill 的设计与实现",
+    "https://mp.weixin.qq.com/s/IZsSYpO3W_ZQ-nukETmKYg": "Microsoft Paint 远程代码执行漏洞 CVE-2026-83844 修复上架：补丁只走微软商店、不走 Windows Update",
+    "https://mp.weixin.qq.com/s/WasczGJ5tKGzBu2paKNM2g": "SonicWall VPN 一个旧密码跳过 MFA CVE-2026-19868",
+    "https://mp.weixin.qq.com/s/PH3bOzQhBS8TPMCGk2i2cQ": "塔塔车联网App四类漏洞披露：从手机端凭据到车辆服务，风险边界在哪里"
 }
