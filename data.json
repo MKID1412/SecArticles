@@ -24068,5 +24068,6 @@
     "https://mp.weixin.qq.com/s/3VeikVfjN2RwsBfLTFijJg": "CISA确认GitLab漏洞CVE-2026-97229已被积极利用",
     "https://mp.weixin.qq.com/s/FgICo59za9Fk6h3LYkjsFg": "Zyxel GS1900 在野利用漏洞分析：一个零日漏洞的完整攻防拆解",
     "https://mp.weixin.qq.com/s/8yp_bSwoKBoDTgh9StZVlA": "微软披露Windows画图严重漏洞，无需用户Click即可远程执行代码",
-    "https://mp.weixin.qq.com/s/DzJv_CUUqz9BKGlrYabTHQ": "CVE-2026-39430：HP Poly 摄像头的管理员登录“名存实亡”，未认证就能导出全设备凭据"
+    "https://mp.weixin.qq.com/s/DzJv_CUUqz9BKGlrYabTHQ": "CVE-2026-39430：HP Poly 摄像头的管理员登录“名存实亡”，未认证就能导出全设备凭据",
+    "https://mp.weixin.qq.com/s/2UwkPks-pm1L9Z8rqLNukw": "OpenSSH 十年漏洞曝光：一个超长密码，竟能绕过 Linux SSH 身份认证"
 }
