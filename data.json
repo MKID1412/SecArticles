@@ -24114,5 +24114,6 @@
     "https://mp.weixin.qq.com/s/3HsNUkqBRMD2R4k39L1h3w": "11月8日漏洞：6个，2个上传、2个未授权、1个信息泄露、1个提权",
     "https://mp.weixin.qq.com/s/9mevrse0JZJVFk77XTmCRQ": "AI 漏洞研究流水线中的因果验证与补丁闭环",
     "https://mp.weixin.qq.com/s/Q27-rwdOyUKEDafUCziayA": "超长密码反而能免密登录？OpenSSH + musl 组合漏洞，把 Alpine 容器的门焊开了 免密登录",
-    "https://mp.weixin.qq.com/s/x7qhbyf92EUP3sJ72Uvxsw": "【已复现】Windows Error Reporting 参数注入权限提升漏洞(CVE-2026-97798)安全风险通告"
+    "https://mp.weixin.qq.com/s/x7qhbyf92EUP3sJ72Uvxsw": "【已复现】Windows Error Reporting 参数注入权限提升漏洞(CVE-2026-97798)安全风险通告",
+    "https://mp.weixin.qq.com/s/jrN63vcLPDfaKXDDbbXuiw": "从“扫到漏洞”，到“证明安全”"
 }
