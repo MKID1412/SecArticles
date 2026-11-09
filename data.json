@@ -24109,5 +24109,10 @@
     "https://mp.weixin.qq.com/s/Rq83iFiOXnpAi_9q2FXzXQ": "SSH漏洞导致黑客能够轻松入侵家庭路由器和嵌入式设备！",
     "https://mp.weixin.qq.com/s/BcPZbSwVhdt9bBOiIzU2MQ": "uutils Coreutils 翻译文件代码注入漏洞细节及概念验证代码公开",
     "https://mp.weixin.qq.com/s/xuLQPfaeEAQWHLXy6hJfXQ": "42 个 AI 开源项目、174 个漏洞：AI 渗透测试把开源世界\"体检\"了一遍",
-    "https://mp.weixin.qq.com/s/zC8EvYIExXLfnGCjaJPsbQ": "【实战案例】一次漏洞挖掘过程中的SQL注入浅浅绕过记录"
+    "https://mp.weixin.qq.com/s/zC8EvYIExXLfnGCjaJPsbQ": "【实战案例】一次漏洞挖掘过程中的SQL注入浅浅绕过记录",
+    "https://mp.weixin.qq.com/s/pgLnGPy1tOefxUQAJydEJQ": "Protocol Explorer 把 TCP 握手画活 安全人该补这课",
+    "https://mp.weixin.qq.com/s/3HsNUkqBRMD2R4k39L1h3w": "11月8日漏洞：6个，2个上传、2个未授权、1个信息泄露、1个提权",
+    "https://mp.weixin.qq.com/s/9mevrse0JZJVFk77XTmCRQ": "AI 漏洞研究流水线中的因果验证与补丁闭环",
+    "https://mp.weixin.qq.com/s/Q27-rwdOyUKEDafUCziayA": "超长密码反而能免密登录？OpenSSH + musl 组合漏洞，把 Alpine 容器的门焊开了 免密登录",
+    "https://mp.weixin.qq.com/s/x7qhbyf92EUP3sJ72Uvxsw": "【已复现】Windows Error Reporting 参数注入权限提升漏洞(CVE-2026-97798)安全风险通告"
 }
