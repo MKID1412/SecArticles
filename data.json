@@ -24315,5 +24315,6 @@
     "https://mp.weixin.qq.com/s/H9xoBFBSZzmPXqbA038b5Q": "Windows CLFS提权PoC公开：CVE-2023-28252已修复三年，仍在野利用",
     "https://mp.weixin.qq.com/s/zuxeae4AQaARRXEHQ4FVJA": "高危预警：UnrealIRCd 漏洞遭在野利用，可实现服务器级命令注入，已录入 CISA KEV 目录",
     "https://mp.weixin.qq.com/s/rxlsdL_lWGa13dxwPCuQ4w": "Cursor 确认安全漏洞导致恶意 Claude Code 扩展程序出现",
-    "https://mp.weixin.qq.com/s/VHQS_Wxe7CEjmwioKLx9HQ": "SQL注入黑盒实战：一个单引号挖出通用漏洞"
+    "https://mp.weixin.qq.com/s/VHQS_Wxe7CEjmwioKLx9HQ": "SQL注入黑盒实战：一个单引号挖出通用漏洞",
+    "https://mp.weixin.qq.com/s/5DW4zuY-GoezwKNsJDSDYA": "OpenSSH sshd最小认证延迟绕过漏洞复现(CVE-2026-60001)"
 }
