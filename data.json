@@ -24370,5 +24370,12 @@
     "https://mp.weixin.qq.com/s/U-XonZi_GfFMT9DcifuxNg": "【mc工具利用】云安全Minio漏洞，CVE-2023-28432漏洞利用",
     "https://mp.weixin.qq.com/s/46O9U7J3d9SZqL3gqiOi8w": "【已复现】漏洞通告 | （Java4Shell）OpenJDK Base64解码器远程代码执行漏洞(CVE-2026-114938)",
     "https://mp.weixin.qq.com/s/xlGbjq6Glf-mUVpF5Zzj7A": "突发 Java4Shell 漏洞——黑客现在无需密码即可劫持 Java 服务器",
-    "https://mp.weixin.qq.com/s/4PSMrLKAjLqRTJFa5qAoBA": "Cursor 确认安全漏洞导致出现了恶意 Claude Code 扩展程序"
+    "https://mp.weixin.qq.com/s/4PSMrLKAjLqRTJFa5qAoBA": "Cursor 确认安全漏洞导致出现了恶意 Claude Code 扩展程序",
+    "https://mp.weixin.qq.com/s/0impnmiWyeBw7z9q4_OpzQ": "K8s容器编排系统安全：从架构基础到漏洞利用与横向移动（上）",
+    "https://mp.weixin.qq.com/s/ol7lzuFPOABh0eIqOZKwpw": "【已复现】OpenJDK Base64 解码器远程代码执行漏洞(CVE-2026-114938)安全风险通告",
+    "https://mp.weixin.qq.com/s/tTWl_CoEs6ROkD2GgS28mA": "未认证 RCE 打穿 Jenkins等服务：Java4Shell 只需一个 Base64 串",
+    "https://mp.weixin.qq.com/s/3oWBPHvjN12bs78ZVmCVKA": "Java4Shell（CVE-2026-114938）OpenJDK 爆出 9.2 分远程代码执行漏洞，Jenkins、Jira 等 Java 应用面临风险",
+    "https://mp.weixin.qq.com/s/VYxf_zSggXxIG4Al4KO9NQ": "Java又爆高危漏洞，OpenJDK远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/zgpPw5j363nLGtWYUscXUA": "【安全速报】11月18日高危漏洞紧急预警",
+    "https://mp.weixin.qq.com/s/KOhx-psyPph29HOj9eOOEA": "GTIG首次观测无人在环的漏洞发现与利用：拆解 exploit_agent 自动化漏洞利用链"
 }
