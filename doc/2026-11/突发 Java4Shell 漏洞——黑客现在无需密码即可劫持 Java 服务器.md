@@ -1,12 +1,11 @@
 #  突发 Java4Shell 漏洞——黑客现在无需密码即可劫持 Java 服务器  
- 六边形攻防安全   2026-11-18 01:17  
+ 华盟信安   2026-11-18 02:05  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/nGzNudUIJ6NicdCXibKOicsAk8iaAgENJOogaic2Jybf7oGwwpveLrAEAvicxa8Lb8QADMibldT0CjHzicC34MqyibHZNuI3Xd8Y23s2V6VdEcmib0rVs/640?from=appmsg "")  
 > **导语**  
 ：漏洞出在 OpenJDK 的 Base64 解码器：手写汇编算错了填充掩码，64 个 "A" 加一个等号，就能往堆外写 62 个字节。找到它的是一个 AI——一小时出洞，两小时出可用利用，全程 token 成本不到 200 美元。  
   
   
-![Java4Shell 堆内存越界写示意图](https://mmbiz.qpic.cn/mmbiz_png/nGzNudUIJ6OKhqVcZs5pVxlibb39V7Oq2PMA6xBUicoVmI4rzCjjK4icwyAVubogLFiaoJ9amgibPibb5Ara1Du0cyg29RvewbD5gatuiaKOMNUDzs/640?from=appmsg "Java4Shell 堆内存越界写示意图")  
+![Java4Shell 堆内存越界写示意图](https://mmbiz.qpic.cn/sz_mmbiz_png/nGzNudUIJ6OhrDYVGA8nQJudZeCAbVhdujJ11zU31ch4nsRd4gJfg7ibGxAPDYWibGYf5GwsCLWB3NXBp4t0GL3ZwbUibkbC9zxYiaCrP27ib2KY/640?from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=1 "Java4Shell 堆内存越界写示意图")  
 ## 危害：不是崩溃，是免认证的读和写  
   
 结论先摆出来。这个漏洞有两级危害。  
@@ -30,7 +29,7 @@
   
 CVSS 4.0 打 9.2（CRITICAL），OpenJDK 官方公告里用的 CVSS 3.1 是 8.1。  
   
-![Java4Shell 官方主视觉](https://mmbiz.qpic.cn/mmbiz_jpg/nGzNudUIJ6PuiaicUEJd8jdsx29K35fHMNj45pcxv4Bibicib42ghca3ePHwwriahYqaoibiaOcIAHVZnx7F5DxNteGDMouqzIeNLicdk9NPibFNhxv6M/640?from=appmsg "Java4Shell 官方主视觉")  
+![Java4Shell 官方主视觉](https://mmbiz.qpic.cn/sz_mmbiz_jpg/nGzNudUIJ6OPPLAHn5FOOzn0t6Uib9QvaR4EhdUTfMUthbfgvPX5cWsLEvInDZuXcE8n1czWH75y0ew26SLlKhtrypkKEfMkOC2tr8GsqvtA/640?from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=2 "Java4Shell 官方主视觉")  
   
 （图：Java4Shell 官方主视觉，来源 Calif Research）  
 ## 原因：JIT 里的手写汇编算错了掩码  
@@ -65,7 +64,7 @@ evmovdqub(Address(dest, dp), k1, tmp, true, Assembler::AVX_512bit);
   
 Java 侧最后会抛 IllegalArgumentException 拒绝这个输入，但堆已经被写坏，拒绝得再快也来不及。  
   
-![Calif Research 官方披露页](https://mmbiz.qpic.cn/mmbiz_jpg/nGzNudUIJ6OLibImSOTb4s2DfGI0pVF9uibMpvOKUlSWicjBXamA4Vry2ClcLchicZrSf0wT8EGnpq8HIuLpmXJSMVrRk72UAxfJeg17WAdZCGs/640?from=appmsg "Calif Research 官方披露页")  
+![Calif Research 官方披露页](https://mmbiz.qpic.cn/sz_mmbiz_jpg/nGzNudUIJ6PrrjY9VSPVjpf3sLRzuYhJPG4n8BpvC2YfwcqQmMBHaPBVIs7ib4cffy6qvpJvdwNLC3kDQ2FoAoTApVj34qeTaBkBFpCN9GBY/640?from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=3 "Calif Research 官方披露页")  
   
 （图：Calif Research 官方披露页，来源 calif.io）  
 ## 利用：先把堆摆成想要的样子，再动手  
@@ -119,7 +118,7 @@ Oracle 在 11 月 17 日的 CPU 里给出的修复版本是：Java SE 8u511b33 /
   
 Linux 上查自己有没有中招：  
 ```
-grep -m1 '^flags' /proc/cpuinfo | tr ' ' '\n' | grep -E '^(avx512f|avx512bw|avx512vbmi|bmi2)$'
+grep -m1 '^flags' /proc/cpuinfo | tr' ''\n' | grep -E '^(avx512f|avx512bw|avx512vbmi|bmi2)$'
 ```  
   
 四个 flag 必须齐全，缺一个就说明 AVX-512 VBMI 那条快路径走不到。  
@@ -177,15 +176,5 @@ javac Base64Trigger.javajava Base64Trigger
   
 **版权声明**  
 ：本文由华盟网原创发布，保留所有权利。文中图片来源于 Calif Research。  
-  
-![](https://mmbiz.qpic.cn/mmbiz_jpg/nGzNudUIJ6PiaUpMH0U761WWJrSfUGlB1qAribmEDXQodkskx6QU3dnicU6grv3wePWGoKd5yeLGWpo649FV74nO8IEFmvQR5iaHMurTRqZ0m9I/640?from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/mmbiz_jpg/nGzNudUIJ6N9PibkuiaRqpribbJiapVicZyOzHZqtXKRffV0JhmkwkLIHcefpe3TnFXsMzAuD3YmVEFRI3hXtRw8j6raicBicrL0ve86E04b0OPdiaE/640?from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/mmbiz_jpg/nGzNudUIJ6PsBibkLkwBrVkoIO65rlDWib6Rlo9EDFCHvKLpuCxe8r1dN2PbWA3ibhUBNicXnJDBjPcPWM8fEL3mtyh3tSYl6zWicickvoDq4q5T8/640?from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/nGzNudUIJ6Mp53K72MHdePxibvSvJXzuY7I62dUEFm2ibnO5ZunGrOSKDppUCaibTOiaoJYmp6ma6ghH1A23k6LSaWcSajcaicodvYRwermcoBibs/640?from=appmsg "")  
-> 👇 点击**阅读原文**  
-，访问我的网站  
   
   
