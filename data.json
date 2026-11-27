@@ -24637,5 +24637,10 @@
     "https://mp.weixin.qq.com/s/JrQnm0lyafXBZXPUwT88tg": "IoT 固件漏洞AI挖掘系统 - ARTEX-IOT",
     "https://mp.weixin.qq.com/s/XULVbwPrtO1k4LGr34gRXQ": "n8n CVE-2025-68613 表达式沙箱逃逸致 RCE 漏洞复现",
     "https://mp.weixin.qq.com/s/UiuKn9I_7sgdEKx9liG0xA": "【高危漏洞预警】Cacti Guest访客未授权远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s/qX0frfEY8JrCjyJsilCdLg": "强推一个AI 安全运营工作台（御枢 AegisOps） - 告警研判、应急响应、漏洞整改！"
+    "https://mp.weixin.qq.com/s/qX0frfEY8JrCjyJsilCdLg": "强推一个AI 安全运营工作台（御枢 AegisOps） - 告警研判、应急响应、漏洞整改！",
+    "https://mp.weixin.qq.com/s/cguMd15zYiDtMxmjrsKSaw": "美国网络安全和基础设施安全局 (CISA) 警告：黑客正在积极利用思科、VMware、SAP 和 Apache 的漏洞",
+    "https://mp.weixin.qq.com/s/V3OinR4jGBuxYgz-re79ew": "俄罗斯黑客利用 Zimbra 0-Day 漏洞，零点击邮箱秒没",
+    "https://mp.weixin.qq.com/s/rKC3cCHyeEamnFoj5haqIg": "Node 单线程也有竞态：Parse Server 多 OAuth2 Provider CVE-2026-32242漏洞分析",
+    "https://mp.weixin.qq.com/s/kJME5Zo4j0Kz9j3WMp9JBA": "LiteLLM MCP OAuth2 passthrough 认证绕过复现与分析",
+    "https://mp.weixin.qq.com/s/GzTcylo5XZ_D8ZuAUEZxJQ": "Palo Alto Networks 警告：黑客利用了 Fragnesia 漏洞攻击了 PAN-OS 系统"
 }
